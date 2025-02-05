@@ -1445,3 +1445,29 @@ java.lang.Throwable: null
 [05Feb2025 19:49:24.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [05Feb2025 19:49:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [05Feb2025 19:49:24.200] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[05Feb2025 20:02:03.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Feb2025 20:02:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Feb2025 20:02:03.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Feb2025 20:02:03.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Feb2025 20:02:04.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Feb2025 20:02:04.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05Feb2025 20:02:04.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[05Feb2025 20:02:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Feb2025 20:02:04.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[05Feb2025 20:02:04.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[05Feb2025 20:02:04.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Feb2025 20:02:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05Feb2025 20:02:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Feb2025 20:02:04.849] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Feb2025 20:02:04.857] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[05Feb2025 20:02:04.860] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[05Feb2025 20:02:04.861] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Feb2025 20:02:04.885] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
