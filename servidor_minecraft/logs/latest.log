@@ -1305,3 +1305,32 @@ java.lang.Throwable: null
 [05Feb2025 19:13:40.286] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
 [05Feb2025 19:13:42.070] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
 [05Feb2025 19:13:42.070] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[05Feb2025 19:14:25.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[05Feb2025 19:14:40.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[05Feb2025 19:14:40.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[05Feb2025 19:14:40.367] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[05Feb2025 19:16:17.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[05Feb2025 19:16:35.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonnyMorales[/127.73.58.181:35153] logged in with entity id 14012 at (374.04045858118417, 84.0, 5.478835330671381)
+[05Feb2025 19:16:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonnyMorales joined the game
+[05Feb2025 19:16:35.230] [Server thread/INFO] [Jade/]: Syncing config to tonnyMorales (3ad0ea02-70a9-3ad2-b59d-eb54bfeb5382)
+[05Feb2025 19:16:35.241] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2032ms or 40 ticks
+[05Feb2025 19:16:36.001] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tonnyMorales (18)
+[05Feb2025 19:16:36.001] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tonnyMorales
+[05Feb2025 19:17:05.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonnyMorales lost connection: Timed out
+[05Feb2025 19:17:05.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonnyMorales left the game
+[05Feb2025 19:17:05.298] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tonnyMorales
+[05Feb2025 19:21:24.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.175.39.131:39215] logged in with entity id 14653 at (494.38514838970053, -40.0, 494.3025555516615)
+[05Feb2025 19:21:24.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[05Feb2025 19:21:24.291] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[05Feb2025 19:21:27.434] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[05Feb2025 19:21:27.435] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[05Feb2025 19:21:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported morax to Dalej]
+[05Feb2025 19:22:03.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya?
+[05Feb2025 19:22:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> majomeno
+[05Feb2025 19:22:58.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> lo q si la conexion sigue pesada
+[05Feb2025 19:23:02.115] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2013ms or 40 ticks
+[05Feb2025 19:23:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> real
+[05Feb2025 19:23:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Bat Mode]
+[05Feb2025 19:24:09.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[05Feb2025 19:24:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[05Feb2025 19:24:09.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
