@@ -1788,3 +1788,104 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Feb2025 05:36:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
 [08Feb2025 05:36:45.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
 [08Feb2025 05:36:53.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[08Feb2025 05:39:54.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.122.61.77:57441] logged in with entity id 29119 at (180.5, 89.0, 25.5)
+[08Feb2025 05:39:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 05:39:54.123] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 05:39:55.893] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 05:39:55.893] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 05:40:17.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Feb2025 05:40:23.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Asriel was slain by Grottoceratops, they gave up
+[08Feb2025 05:40:24.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 05:40:24.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 05:40:24.130] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 05:40:39.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.155.26.212:56723] logged in with entity id 29930 at (1260.5022588365912, 69.0625, 25.895226091728883)
+[08Feb2025 05:40:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[08Feb2025 05:40:39.317] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[08Feb2025 05:40:39.862] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2172ms or 43 ticks
+[08Feb2025 05:40:41.204] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[08Feb2025 05:40:41.204] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[08Feb2025 05:40:45.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 05:40:46.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 05:40:46.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[08Feb2025 05:41:03.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Feb2025 05:41:22.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3889ms or 77 ticks behind
+[08Feb2025 05:41:42.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4683ms or 93 ticks behind
+[08Feb2025 05:42:03.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6627ms or 132 ticks behind
+[08Feb2025 05:42:10.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.12.209.166:52467] logged in with entity id 30756 at (377.5, 85.5, 27.5)
+[08Feb2025 05:42:10.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[08Feb2025 05:42:10.888] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[08Feb2025 05:42:19.762] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f5c6929[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:49183) lost connection: Disconnected
+[08Feb2025 05:42:22.892] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[08Feb2025 05:42:22.893] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[08Feb2025 05:42:26.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7285ms or 145 ticks behind
+[08Feb2025 05:42:27.586] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2291ms or 45 ticks
+[08Feb2025 05:42:51.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10086ms or 201 ticks behind
+[08Feb2025 05:42:59.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[08Feb2025 05:43:00.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[08Feb2025 05:43:00.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[08Feb2025 05:43:05.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.122.61.77:38459] logged in with entity id 30973 at (180.5, 89.0, 25.5)
+[08Feb2025 05:43:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 05:43:05.222] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 05:43:05.257] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[08Feb2025 05:43:07.041] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 05:43:07.042] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 05:43:14.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8070ms or 161 ticks behind
+[08Feb2025 05:43:29.994] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
+[08Feb2025 05:43:35.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 05:43:35.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 05:43:35.310] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 05:43:39.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10309ms or 206 ticks behind
+[08Feb2025 05:44:01.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7430ms or 148 ticks behind
+[08Feb2025 05:44:24.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7307ms or 146 ticks behind
+[08Feb2025 05:44:34.258] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2027ms or 40 ticks
+[08Feb2025 05:44:47.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8183ms or 163 ticks behind
+[08Feb2025 05:45:10.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7821ms or 156 ticks behind
+[08Feb2025 05:45:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> caballero todo bien con etecsA?
+[08Feb2025 05:45:33.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7952ms or 159 ticks behind
+[08Feb2025 05:45:38.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[08Feb2025 05:45:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[08Feb2025 05:45:38.046] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client keibel
+[08Feb2025 05:45:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 05:45:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[08Feb2025 05:45:50.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] etecsa bien pero mi pc no
+[08Feb2025 05:45:55.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7707ms or 154 ticks behind
+[08Feb2025 05:45:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> otia
+[08Feb2025 05:46:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pero si estás dentro
+[08Feb2025 05:46:17.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7159ms or 143 ticks behind
+[08Feb2025 05:46:18.371] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@17f270a2[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:59453): Took too long to log in
+[08Feb2025 05:46:18.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17f270a2[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:59453) lost connection: Took too long to log in
+[08Feb2025 05:46:18.455] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 05:46:22.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.116.139.197:43661] logged in with entity id 32063 at (371.3799380556577, 83.0, -4.610280390435924)
+[08Feb2025 05:46:22.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[08Feb2025 05:46:22.258] [Server thread/INFO] [Jade/]: Syncing config to keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581)
+[08Feb2025 05:46:22.560] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of keibel (18)
+[08Feb2025 05:46:22.560] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to keibel
+[08Feb2025 05:46:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji was killed by Apothecarist using magic
+[08Feb2025 05:46:26.627] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2092ms or 41 ticks
+[08Feb2025 05:46:39.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6208ms or 124 ticks behind
+[08Feb2025 05:46:40.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 05:46:41.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 05:46:41.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581) successfully connected to voice chat
+[08Feb2025 05:46:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by The Damned, they gave up
+[08Feb2025 05:47:00.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5992ms or 119 ticks behind
+[08Feb2025 05:47:21.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
+[08Feb2025 05:47:21.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1b578909[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:42291): Took too long to log in
+[08Feb2025 05:47:21.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b578909[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:42291) lost connection: Took too long to log in
+[08Feb2025 05:47:21.985] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 05:47:26.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.122.61.77:53001] logged in with entity id 32848 at (180.5, 89.0, 25.5)
+[08Feb2025 05:47:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 05:47:26.656] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 05:47:27.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 05:47:27.903] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 05:47:43.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
+[08Feb2025 05:47:50.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After %1$s was slain by %2$s, they gave up
+[08Feb2025 05:47:56.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 05:47:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 05:47:56.704] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 05:47:56.734] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2063ms or 41 ticks
+[08Feb2025 05:48:04.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6859ms or 137 ticks behind
+[08Feb2025 05:48:17.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32b7cea8[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:42965) lost connection: Timed out
+[08Feb2025 05:48:26.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6552ms or 131 ticks behind
+[08Feb2025 05:48:26.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[08Feb2025 05:48:26.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[08Feb2025 05:48:26.668] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
