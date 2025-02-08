@@ -407,6 +407,7 @@
       "shrubland": "2025-02-01 05:10:35 +0000",
       "scrubland": "2025-02-01 08:21:59 +0000",
       "marsh": "2025-02-01 08:24:42 +0000",
+      "wetland": "2025-02-08 04:56:51 +0000",
       "spider_nest": "2025-02-02 05:46:46 +0000",
       "pasture": "2025-02-01 08:22:54 +0000",
       "prairie": "2025-02-01 06:59:47 +0000"
@@ -7865,6 +7866,12 @@
   "handcrafted:recipes/misc/jungle_counter": {
     "criteria": {
       "has_jungle_counter": "2025-02-05 02:48:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2025-02-08 04:57:52 +0000"
     },
     "done": true
   },
