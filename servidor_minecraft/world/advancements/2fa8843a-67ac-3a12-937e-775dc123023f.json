@@ -7482,6 +7482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-08 05:44:28 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/combat/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-02-08 05:38:06 +0000"
@@ -7527,6 +7533,18 @@
   "werewolves:recipes/combat/silver_boots": {
     "criteria": {
       "has_silver_ingot": "2025-02-08 05:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-08 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-08 05:44:28 +0000"
     },
     "done": true
   },

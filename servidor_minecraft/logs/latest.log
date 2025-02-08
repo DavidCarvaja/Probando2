@@ -1889,3 +1889,77 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Feb2025 05:48:26.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [08Feb2025 05:48:26.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [08Feb2025 05:48:26.668] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[08Feb2025 05:48:45.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[08Feb2025 05:49:03.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[08Feb2025 05:49:22.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3828ms or 76 ticks behind
+[08Feb2025 05:49:40.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[08Feb2025 05:49:41.891] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2064ms or 41 ticks
+[08Feb2025 05:49:47.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.12.209.166:34823] logged in with entity id 34058 at (179.5, 94.0, 15.5)
+[08Feb2025 05:49:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[08Feb2025 05:49:47.554] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[08Feb2025 05:49:49.658] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[08Feb2025 05:49:49.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[08Feb2025 05:50:02.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
+[08Feb2025 05:50:12.291] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@100b6b78[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:53765): Took too long to log in
+[08Feb2025 05:50:12.291] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@100b6b78[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:53765) lost connection: Took too long to log in
+[08Feb2025 05:50:12.371] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 05:50:25.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[08Feb2025 05:50:25.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8061ms or 161 ticks behind
+[08Feb2025 05:50:26.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[08Feb2025 05:50:26.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[08Feb2025 05:50:41.049] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[08Feb2025 05:50:49.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9292ms or 185 ticks behind
+[08Feb2025 05:51:10.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> eeeeee
+[08Feb2025 05:51:12.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7278ms or 145 ticks behind
+[08Feb2025 05:51:13.452] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@32f7fa2[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:40431): Took too long to log in
+[08Feb2025 05:51:13.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32f7fa2[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:40431) lost connection: Took too long to log in
+[08Feb2025 05:51:13.532] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 05:51:34.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7025ms or 140 ticks behind
+[08Feb2025 05:51:55.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6719ms or 134 ticks behind
+[08Feb2025 05:51:56.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a0612bc[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:57637) lost connection: Timed out
+[08Feb2025 05:52:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> wtf
+[08Feb2025 05:52:10.679] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2056ms or 41 ticks
+[08Feb2025 05:52:19.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8787ms or 175 ticks behind
+[08Feb2025 05:52:27.560] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2063ms or 41 ticks
+[08Feb2025 05:52:46.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11790ms or 235 ticks behind
+[08Feb2025 05:52:46.916] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2066ms or 41 ticks
+[08Feb2025 05:53:11.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10484ms or 209 ticks behind
+[08Feb2025 05:53:20.590] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2004ms or 40 ticks
+[08Feb2025 05:53:34.641] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3721f999[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:49621) lost connection: Timed out
+[08Feb2025 05:53:36.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10097ms or 201 ticks behind
+[08Feb2025 05:53:55.007] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
+[08Feb2025 05:54:02.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10376ms or 207 ticks behind
+[08Feb2025 05:54:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> dime gorda
+[08Feb2025 05:54:25.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7939ms or 158 ticks behind
+[08Feb2025 05:54:46.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1178, y=69, z=98} BlockPos{x=1178, y=68, z=99}
+[08Feb2025 05:54:47.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1178, y=69, z=96} BlockPos{x=1178, y=68, z=97}
+[08Feb2025 05:54:47.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1178, y=69, z=96} BlockPos{x=1178, y=68, z=97}
+[08Feb2025 05:54:47.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1178, y=69, z=96} BlockPos{x=1178, y=68, z=97}
+[08Feb2025 05:54:47.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7899ms or 157 ticks behind
+[08Feb2025 05:55:10.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7913ms or 158 ticks behind
+[08Feb2025 05:55:34.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8233ms or 164 ticks behind
+[08Feb2025 05:55:57.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8408ms or 168 ticks behind
+[08Feb2025 05:55:57.556] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2008ms or 40 ticks
+[08Feb2025 05:56:03.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Corrupting the Paradise]
+[08Feb2025 05:56:12.733] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22a2e6a7[id=<null>,name=tonnyMorales,properties={},legacy=false] (/127.222.76.148:49069) lost connection: Disconnected
+[08Feb2025 05:56:14.386] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2083ms or 41 ticks
+[08Feb2025 05:56:25.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13471ms or 269 ticks behind
+[08Feb2025 05:56:46.042] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2059ms or 41 ticks
+[08Feb2025 05:56:52.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11462ms or 229 ticks behind
+[08Feb2025 05:57:02.122] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2145ms or 42 ticks
+[08Feb2025 05:57:03.456] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1550, y=-22, z=19}
+[08Feb2025 05:57:03.515] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1550, y=-22, z=13}
+[08Feb2025 05:57:19.113] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
+[08Feb2025 05:57:21.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13686ms or 273 ticks behind
+[08Feb2025 05:57:38.935] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[08Feb2025 05:57:47.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11770ms or 235 ticks behind
+[08Feb2025 05:58:04.956] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2104ms or 42 ticks
+[08Feb2025 05:58:16.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14211ms or 284 ticks behind
+[08Feb2025 05:58:21.926] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2049ms or 40 ticks
+[08Feb2025 05:58:36.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.198.78.139:32925] logged in with entity id 38339 at (180.5, 89.0, 25.5)
+[08Feb2025 05:58:36.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 05:58:36.256] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 05:58:38.497] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2061ms or 41 ticks
+[08Feb2025 05:58:39.291] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 05:58:39.292] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 05:58:44.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12770ms or 255 ticks behind
