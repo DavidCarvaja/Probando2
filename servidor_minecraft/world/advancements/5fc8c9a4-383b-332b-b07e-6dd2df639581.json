@@ -131,6 +131,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-02-01 12:13:04 +0000",
+      "spider_nest": "2025-02-08 05:25:30 +0000",
       "pasture": "2025-02-01 12:17:52 +0000",
       "prairie": "2025-02-01 12:19:27 +0000"
     },
@@ -1821,6 +1822,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-08 05:34:41 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_torch": "2025-02-08 05:19:48 +0000"
@@ -1830,6 +1837,12 @@
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2025-02-08 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-08 05:34:41 +0000"
     },
     "done": true
   },
@@ -1887,9 +1900,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-02-08 05:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-08 05:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 05:33:27 +0000"
     },
     "done": true
   },
@@ -1980,6 +2005,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-08 05:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 05:33:27 +0000"
     },
     "done": true
   },
@@ -2181,6 +2212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-08 05:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-08 05:22:49 +0000"
@@ -2265,6 +2302,12 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-08 05:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-08 05:11:38 +0000"
@@ -2301,6 +2344,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-08 05:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-08 05:14:06 +0000"
@@ -2330,6 +2379,12 @@
       "has_diorite": "2025-02-08 05:14:06 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-02-08 05:27:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
