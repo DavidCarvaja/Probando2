@@ -6822,5 +6822,11 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_wooden_sword": "2025-02-08 06:34:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
