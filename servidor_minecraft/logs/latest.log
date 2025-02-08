@@ -1196,3 +1196,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Feb2025 07:39:54.915] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [08Feb2025 07:40:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
 [08Feb2025 07:40:04.236] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2031ms or 40 ticks
+[08Feb2025 07:40:27.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[08Feb2025 07:40:41.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Alex's Caves]
+[08Feb2025 07:40:50.554] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[08Feb2025 07:40:50.554] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[08Feb2025 07:40:54.447] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
+[08Feb2025 07:41:02.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Feb2025 07:41:13.484] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[08Feb2025 07:41:24.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6990ms or 139 ticks behind
+[08Feb2025 07:41:32.839] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[08Feb2025 07:41:47.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by morax
+[08Feb2025 07:41:48.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8965ms or 179 ticks behind
+[08Feb2025 07:41:52.197] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2018ms or 40 ticks
+[08Feb2025 07:42:08.392] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
+[08Feb2025 07:42:12.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9143ms or 182 ticks behind
+[08Feb2025 07:42:25.563] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[08Feb2025 07:42:31.296] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2122ms or 42 ticks
+[08Feb2025 07:42:34.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7515ms or 150 ticks behind
+[08Feb2025 07:42:56.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6866ms or 137 ticks behind
+[08Feb2025 07:43:02.996] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2226ms or 44 ticks
+[08Feb2025 07:43:22.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10574ms or 211 ticks behind
+[08Feb2025 07:43:32.605] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2008ms or 40 ticks
+[08Feb2025 07:43:44.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7313ms or 146 ticks behind
+[08Feb2025 07:44:07.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8294ms or 165 ticks behind
+[08Feb2025 07:44:30.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7441ms or 148 ticks behind
+[08Feb2025 07:44:52.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7726ms or 154 ticks behind
+[08Feb2025 07:44:59.521] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2054ms or 41 ticks
+[08Feb2025 07:45:16.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8983ms or 179 ticks behind
+[08Feb2025 07:45:32.122] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2056ms or 41 ticks
+[08Feb2025 07:45:42.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10807ms or 216 ticks behind
+[08Feb2025 07:45:44.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was impaled on a stalagmite
+[08Feb2025 07:46:07.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9800ms or 196 ticks behind
+[08Feb2025 07:46:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> 1275 -326
+[08Feb2025 07:46:31.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
+[08Feb2025 07:46:43.335] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[08Feb2025 07:46:56.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9473ms or 189 ticks behind
+[08Feb2025 07:47:21.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9935ms or 198 ticks behind
+[08Feb2025 07:47:33.971] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[08Feb2025 07:47:46.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10062ms or 201 ticks behind
+[08Feb2025 07:48:10.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9770ms or 195 ticks behind
+[08Feb2025 07:48:17.798] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2099ms or 41 ticks
+[08Feb2025 07:48:35.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9511ms or 190 ticks behind
+[08Feb2025 07:48:54.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Disconnected
+[08Feb2025 07:48:54.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[08Feb2025 07:48:54.682] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[08Feb2025 07:48:57.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[08Feb2025 07:48:57.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[08Feb2025 07:48:57.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client keibel
+[08Feb2025 07:48:57.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7297ms or 145 ticks behind
+[08Feb2025 07:49:39.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.231.208.27:50813] logged in with entity id 10368 at (358.69999998807907, 19.0, -160.68731942205238)
+[08Feb2025 07:49:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[08Feb2025 07:49:39.657] [Server thread/INFO] [Jade/]: Syncing config to keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581)
+[08Feb2025 07:49:40.024] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of keibel (18)
+[08Feb2025 07:49:40.025] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to keibel
+[08Feb2025 07:49:47.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 07:49:48.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 07:49:48.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581) successfully connected to voice chat
+[08Feb2025 07:50:23.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.155.26.212:36587] logged in with entity id 10563 at (1268.699999988079, 74.0, -329.69999998807907)
+[08Feb2025 07:50:23.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[08Feb2025 07:50:23.074] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[08Feb2025 07:50:23.913] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2399ms or 47 ticks
+[08Feb2025 07:50:24.693] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[08Feb2025 07:50:24.693] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[08Feb2025 07:50:28.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 07:50:29.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 07:50:29.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat

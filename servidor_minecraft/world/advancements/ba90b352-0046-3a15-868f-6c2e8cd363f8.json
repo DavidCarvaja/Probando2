@@ -401,8 +401,10 @@
     "criteria": {
       "cooked_beef": "2025-02-02 06:12:38 +0000",
       "beef": "2025-02-08 07:18:24 +0000",
+      "porkchop": "2025-02-08 07:40:51 +0000",
       "apple": "2025-02-01 05:50:43 +0000",
       "potato": "2025-02-01 08:07:10 +0000",
+      "mutton": "2025-02-08 07:38:22 +0000",
       "bread": "2025-02-01 06:18:12 +0000",
       "rotten_flesh": "2025-02-01 10:10:47 +0000",
       "enchanted_golden_apple": "2025-02-01 08:15:06 +0000",
@@ -6894,6 +6896,12 @@
       "bakery:jam_roll": "2025-02-08 07:14:57 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-08 07:43:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
