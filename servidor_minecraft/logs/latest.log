@@ -1963,3 +1963,74 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Feb2025 05:58:39.291] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
 [08Feb2025 05:58:39.292] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
 [08Feb2025 05:58:44.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12770ms or 255 ticks behind
+[08Feb2025 05:58:54.459] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2004ms or 40 ticks
+[08Feb2025 05:59:06.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 05:59:06.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 05:59:06.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 05:59:10.615] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[08Feb2025 05:59:15.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15667ms or 313 ticks behind
+[08Feb2025 05:59:28.553] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[08Feb2025 05:59:45.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14800ms or 296 ticks behind
+[08Feb2025 05:59:46.321] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
+[08Feb2025 06:00:05.386] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[08Feb2025 06:00:12.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12253ms or 245 ticks behind
+[08Feb2025 06:00:32.790] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
+[08Feb2025 06:00:37.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10563ms or 211 ticks behind
+[08Feb2025 06:01:02.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9746ms or 194 ticks behind
+[08Feb2025 06:01:27.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10154ms or 203 ticks behind
+[08Feb2025 06:01:37.904] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[08Feb2025 06:01:40.446] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/39975, l='ServerLevel[world]', x=887.50, y=42.00, z=51.50]
+[08Feb2025 06:01:40.447] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/39976, l='ServerLevel[world]', x=886.50, y=42.00, z=52.50]
+[08Feb2025 06:01:53.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10917ms or 218 ticks behind
+[08Feb2025 06:01:57.775] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/40153, l='ServerLevel[world]', x=895.50, y=34.00, z=62.50]
+[08Feb2025 06:01:59.791] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[08Feb2025 06:02:20.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11782ms or 235 ticks behind
+[08Feb2025 06:02:20.576] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[08Feb2025 06:02:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Monster Hunter]
+[08Feb2025 06:02:42.979] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[08Feb2025 06:02:46.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11528ms or 230 ticks behind
+[08Feb2025 06:03:05.420] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
+[08Feb2025 06:03:13.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11521ms or 230 ticks behind
+[08Feb2025 06:03:23.209] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2067ms or 41 ticks
+[08Feb2025 06:03:35.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.122.61.77:44895] logged in with entity id 40783 at (180.5, 89.0, 25.5)
+[08Feb2025 06:03:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 06:03:35.491] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 06:03:37.714] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 06:03:37.714] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 06:03:40.595] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2071ms or 41 ticks
+[08Feb2025 06:03:41.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12573ms or 251 ticks behind
+[08Feb2025 06:03:56.193] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2026ms or 40 ticks
+[08Feb2025 06:04:05.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 06:04:05.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 06:04:05.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 06:04:10.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14725ms or 294 ticks behind
+[08Feb2025 06:04:13.230] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2045ms or 40 ticks
+[08Feb2025 06:04:21.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has reached the goal [The Cave That Time Forgot]
+[08Feb2025 06:04:27.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [You Monster...]
+[08Feb2025 06:04:28.231] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
+[08Feb2025 06:04:37.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12034ms or 240 ticks behind
+[08Feb2025 06:04:44.861] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[08Feb2025 06:05:04.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11443ms or 228 ticks behind
+[08Feb2025 06:05:05.596] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[08Feb2025 06:05:28.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9135ms or 182 ticks behind
+[08Feb2025 06:05:40.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> david dime coords
+[08Feb2025 06:05:51.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8346ms or 166 ticks behind
+[08Feb2025 06:05:59.058] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[08Feb2025 06:06:15.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8516ms or 170 ticks behind
+[08Feb2025 06:06:39.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9211ms or 184 ticks behind
+[08Feb2025 06:06:40.786] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[08Feb2025 06:06:57.382] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2120ms or 42 ticks
+[08Feb2025 06:07:06.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11827ms or 236 ticks behind
+[08Feb2025 06:07:12.848] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2101ms or 42 ticks
+[08Feb2025 06:07:18.419] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71c0cd5e[id=<null>,name=morax,properties={},legacy=false] (/127.198.78.139:54267) lost connection: Disconnected
+[08Feb2025 06:07:32.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11467ms or 229 ticks behind
+[08Feb2025 06:07:36.753] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2019ms or 40 ticks
+[08Feb2025 06:07:58.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10943ms or 218 ticks behind
+[08Feb2025 06:08:12.114] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2032ms or 40 ticks
+[08Feb2025 06:08:23.213] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2477c5a0[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:42985): Took too long to log in
+[08Feb2025 06:08:23.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2477c5a0[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:42985) lost connection: Took too long to log in
+[08Feb2025 06:08:23.291] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 06:08:23.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10623ms or 212 ticks behind
+[08Feb2025 06:08:42.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Waystone] to Asriel]
+[08Feb2025 06:08:42.918] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2025ms or 40 ticks
+[08Feb2025 06:08:49.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10783ms or 215 ticks behind

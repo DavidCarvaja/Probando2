@@ -2346,6 +2346,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-02-08 06:01:35 +0000",
       "apple": "2025-02-08 05:27:50 +0000"
     },
     "done": false
@@ -2626,9 +2627,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 06:02:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-08 05:56:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
     },
     "done": true
   },
@@ -2637,6 +2650,12 @@
       "has_sign": "2025-02-08 05:56:26 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-02-08 06:02:23 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
     "criteria": {
@@ -2668,6 +2687,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-02-08 05:56:26 +0000"
@@ -2680,15 +2705,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 06:02:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-08 05:56:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-02-08 05:56:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_1": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
     },
     "done": true
   },
@@ -2704,9 +2759,21 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-08 05:56:26 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
     },
     "done": true
   },
@@ -2740,9 +2807,27 @@
     },
     "done": true
   },
+  "werewolves:recipes/misc/wolfsbane_finder": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-08 06:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-02-08 06:02:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-02-08 05:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-08 06:02:25 +0000"
     },
     "done": true
   },
