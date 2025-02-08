@@ -2034,3 +2034,100 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Feb2025 06:08:42.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Waystone] to Asriel]
 [08Feb2025 06:08:42.918] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2025ms or 40 ticks
 [08Feb2025 06:08:49.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10783ms or 215 ticks behind
+[08Feb2025 06:09:07.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[08Feb2025 06:09:16.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12271ms or 245 ticks behind
+[08Feb2025 06:09:33.037] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[08Feb2025 06:09:42.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10934ms or 218 ticks behind
+[08Feb2025 06:09:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Elephant
+[08Feb2025 06:09:55.110] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7b043212[id=<null>,name=morax,properties={},legacy=false] (/127.198.78.139:33389): Took too long to log in
+[08Feb2025 06:09:55.110] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b043212[id=<null>,name=morax,properties={},legacy=false] (/127.198.78.139:33389) lost connection: Took too long to log in
+[08Feb2025 06:09:55.184] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 06:10:04.731] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2028ms or 40 ticks
+[08Feb2025 06:10:09.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11343ms or 226 ticks behind
+[08Feb2025 06:10:25.048] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2019ms or 40 ticks
+[08Feb2025 06:10:35.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10919ms or 218 ticks behind
+[08Feb2025 06:10:47.726] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[08Feb2025 06:10:55.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.198.78.139:37225] logged in with entity id 44707 at (180.5, 89.0, 25.5)
+[08Feb2025 06:10:55.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 06:10:55.258] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 06:11:00.085] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 06:11:00.086] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 06:11:00.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10051ms or 201 ticks behind
+[08Feb2025 06:11:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Cover Me with Diamonds]
+[08Feb2025 06:11:21.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6732ms or 134 ticks behind
+[08Feb2025 06:11:24.698] [Server thread/INFO] [Easy NPC/]: Opening menu 8ce446aa-afc0-46df-b59a-60da38381ab7 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=180.98, y=87.00, z=43.44] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[08Feb2025 06:11:25.141] [Server thread/INFO] [Easy NPC/]: Opening menu 30a132be-4709-41de-b472-727cd4c24ce6 for npc 0573b8cf-0cb4-446c-b33b-290a46c918f6 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=180.98, y=87.00, z=43.44] with DialogMenuHandler{displayName=literal{Puerco}[style={color=#FFFFFF}]}
+[08Feb2025 06:11:33.929] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2008ms or 40 ticks
+[08Feb2025 06:11:44.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8011ms or 160 ticks behind
+[08Feb2025 06:11:57.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 06:11:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 06:11:57.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 06:12:03.073] [Server thread/INFO] [Easy NPC/]: Opening menu 5fd1cb45-d598-45fb-a557-e80de7b30c4f for npc 1d735b84-912b-45f6-a0a6-6db54c591a76 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=133.95, y=81.00, z=53.66] with DialogMenuHandler{displayName=literal{Peter Pan}[style={color=#FFFFFF}]}
+[08Feb2025 06:12:07.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7537ms or 150 ticks behind
+[08Feb2025 06:12:17.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Man From The Fog, they gave up
+[08Feb2025 06:12:30.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7786ms or 155 ticks behind
+[08Feb2025 06:12:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Man From The Fog
+[08Feb2025 06:12:36.437] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
+[08Feb2025 06:12:50.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
+[08Feb2025 06:12:52.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> puto negro
+[08Feb2025 06:12:58.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Sweet Dreams]
+[08Feb2025 06:13:08.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
+[08Feb2025 06:13:27.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3844ms or 76 ticks behind
+[08Feb2025 06:13:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> algo
+[08Feb2025 06:13:45.827] [Server thread/INFO] [Easy NPC/]: Opening menu 7f486164-3259-495c-bfd6-de4e97631412 for npc 809d90d4-bcf8-4f9d-b093-08e473be7169 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=171.60, y=87.00, z=48.96] with DialogMenuHandler{displayName=literal{Laura}[style={color=#FFFFFF}]}
+[08Feb2025 06:13:46.305] [Server thread/INFO] [Easy NPC/]: Opening menu a0879bbb-54a3-49cf-89d7-c3a89a9e970f for npc 809d90d4-bcf8-4f9d-b093-08e473be7169 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=171.60, y=87.00, z=48.96] with DialogMenuHandler{displayName=literal{Laura}[style={color=#FFFFFF}]}
+[08Feb2025 06:13:46.643] [Server thread/INFO] [Easy NPC/]: Opening menu 4f194c93-0789-4b41-8f75-8e573d5bf257 for npc 809d90d4-bcf8-4f9d-b093-08e473be7169 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=171.60, y=87.00, z=48.96] with DialogMenuHandler{displayName=literal{Laura}[style={color=#FFFFFF}]}
+[08Feb2025 06:13:47.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind
+[08Feb2025 06:13:50.419] [Server thread/INFO] [Easy NPC/]: Opening menu d69ee68f-48ea-4995-9d25-0b1eda7f3970 for npc 809d90d4-bcf8-4f9d-b093-08e473be7169 and player ServerPlayer['Asriel'/26734, l='ServerLevel[world]', x=171.60, y=87.00, z=48.96] with DialogMenuHandler{displayName=literal{Laura}[style={color=#FFFFFF}]}
+[08Feb2025 06:13:57.415] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[08Feb2025 06:14:07.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5575ms or 111 ticks behind
+[08Feb2025 06:14:08.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Disconnected
+[08Feb2025 06:14:08.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[08Feb2025 06:14:08.854] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[08Feb2025 06:14:27.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5cd5a4f8[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:41357): Took too long to log in
+[08Feb2025 06:14:27.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cd5a4f8[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:41357) lost connection: Took too long to log in
+[08Feb2025 06:14:27.309] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 06:14:28.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Asriel was slain by The Damned, they gave up
+[08Feb2025 06:14:30.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08Feb2025 06:14:30.767] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks
+[08Feb2025 06:14:40.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[08Feb2025 06:14:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[08Feb2025 06:14:40.091] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client keibel
+[08Feb2025 06:14:40.149] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 06:15:11.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.116.139.197:51071] logged in with entity id 48288 at (290.4584762094416, 72.0, -239.18178312041644)
+[08Feb2025 06:15:11.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[08Feb2025 06:15:11.978] [Server thread/INFO] [Jade/]: Syncing config to keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581)
+[08Feb2025 06:15:12.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of keibel (18)
+[08Feb2025 06:15:12.340] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to keibel
+[08Feb2025 06:15:15.452] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@e0ea8f6[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:42799): Took too long to log in
+[08Feb2025 06:15:15.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e0ea8f6[id=<null>,name=morax,properties={},legacy=false] (/127.122.61.77:42799) lost connection: Took too long to log in
+[08Feb2025 06:15:15.497] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 06:15:20.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 06:15:21.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 06:15:21.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581) successfully connected to voice chat
+[08Feb2025 06:15:34.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Feb2025 06:15:53.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[08Feb2025 06:16:10.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Feb2025 06:16:36.924] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[08Feb2025 06:16:39.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[08Feb2025 06:16:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[08Feb2025 06:16:39.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client keibel
+[08Feb2025 06:16:55.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.198.78.139:39719] logged in with entity id 50582 at (180.5, 89.0, 25.5)
+[08Feb2025 06:16:55.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[08Feb2025 06:16:55.852] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[08Feb2025 06:17:00.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[08Feb2025 06:17:00.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[08Feb2025 06:17:25.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[08Feb2025 06:17:25.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[08Feb2025 06:17:25.872] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[08Feb2025 06:17:32.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.116.139.197:57377] logged in with entity id 50977 at (262.7400571472888, 80.0, -413.94292877178646)
+[08Feb2025 06:17:32.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[08Feb2025 06:17:32.343] [Server thread/INFO] [Jade/]: Syncing config to keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581)
+[08Feb2025 06:17:32.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of keibel (18)
+[08Feb2025 06:17:32.872] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to keibel
+[08Feb2025 06:17:40.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 06:17:41.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 06:17:41.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581) successfully connected to voice chat
+[08Feb2025 06:18:16.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Feb2025 06:18:32.592] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[08Feb2025 06:18:34.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind

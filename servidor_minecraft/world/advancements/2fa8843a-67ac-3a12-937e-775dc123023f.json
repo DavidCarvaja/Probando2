@@ -2531,6 +2531,7 @@
   "bakery:main/get_everything": {
     "criteria": {
       "bakery:glowberry_tart": "2025-02-08 04:39:10 +0000",
+      "bakery:crusty_bread": "2025-02-08 06:12:14 +0000",
       "bakery:vegetable_sandwich": "2025-02-01 07:12:05 +0000"
     },
     "done": false
@@ -7124,7 +7125,8 @@
   },
   "bakery:main/get_all_baked_goods": {
     "criteria": {
-      "bakery:glowberry_tart": "2025-02-08 04:39:10 +0000"
+      "bakery:glowberry_tart": "2025-02-08 04:39:10 +0000",
+      "bakery:crusty_bread": "2025-02-08 06:12:14 +0000"
     },
     "done": false
   },
