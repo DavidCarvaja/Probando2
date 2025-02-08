@@ -7278,12 +7278,6 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2025-02-08 06:04:27 +0000"
-    },
-    "done": true
-  },
   "brewery:main/wild_crops": {
     "criteria": {
       "hops_seeds": "2025-02-08 05:55:18 +0000"
@@ -7299,6 +7293,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-02-08 06:04:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-02-08 06:04:27 +0000"
     },
     "done": true
   },
