@@ -1218,3 +1218,45 @@ java.lang.Throwable: null
 [08Feb2025 07:03:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> edueard estas
 [08Feb2025 07:03:34.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> todavia es de dia?
 [08Feb2025 07:04:32.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> creo q si
+[08Feb2025 07:05:55.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fcb33033-a2d1-3bae-abae-bbc169e822af timed out
+[08Feb2025 07:05:55.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalej
+[08Feb2025 07:05:55.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[08Feb2025 07:06:12.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[08Feb2025 07:06:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[08Feb2025 07:06:12.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[08Feb2025 07:06:12.362] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 07:06:32.055] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2128ms or 42 ticks
+[08Feb2025 07:07:27.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.12.209.166:39063] logged in with entity id 5473 at (887.5151430007899, -29.0, -36.79599591447533)
+[08Feb2025 07:07:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[08Feb2025 07:07:27.354] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[08Feb2025 07:07:31.944] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[08Feb2025 07:07:31.945] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[08Feb2025 07:07:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> 1
+[08Feb2025 07:07:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> vale
+[08Feb2025 07:08:12.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[08Feb2025 07:08:13.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[08Feb2025 07:08:13.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[08Feb2025 07:09:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> eduardo entar a discotd
+[08Feb2025 07:11:04.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[08Feb2025 07:11:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[08Feb2025 07:11:04.170] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client keibel
+[08Feb2025 07:11:15.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by The Damned
+[08Feb2025 07:11:23.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.231.208.27:33369] logged in with entity id 7211 at (374.93206279588594, 72.0, -21.173070030236843)
+[08Feb2025 07:11:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[08Feb2025 07:11:23.483] [Server thread/INFO] [Jade/]: Syncing config to keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581)
+[08Feb2025 07:11:23.867] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of keibel (18)
+[08Feb2025 07:11:23.868] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to keibel
+[08Feb2025 07:11:31.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 07:11:32.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5fc8c9a4-383b-332b-b07e-6dd2df639581
+[08Feb2025 07:11:32.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581) successfully connected to voice chat
+[08Feb2025 07:11:32.321] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2253ms or 45 ticks
+[08Feb2025 07:13:34.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by The Damned
+[08Feb2025 07:13:46.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> duerman
+[08Feb2025 07:14:14.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.06637432133516,0.0,-1.1202362723939814
+[08Feb2025 07:14:14.457] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3057ms or 61 ticks
+[08Feb2025 07:14:14.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[08Feb2025 07:14:37.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7595ms or 151 ticks behind
+[08Feb2025 07:14:38.175] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2090ms or 41 ticks
+[08Feb2025 07:14:42.834] [Server thread/INFO] [Easy NPC/]: Opening menu b03858c9-8e26-4d7a-ad3a-dc342b460e0a for npc 1d735b84-912b-45f6-a0a6-6db54c591a76 and player ServerPlayer['morax'/1390, l='ServerLevel[world]', x=135.47, y=81.00, z=53.70] with DialogMenuHandler{displayName=literal{Peter Pan}[style={color=#FFFFFF}]}
+[08Feb2025 07:14:57.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5875ms or 117 ticks behind
+[08Feb2025 07:15:00.895] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2052ms or 41 ticks
