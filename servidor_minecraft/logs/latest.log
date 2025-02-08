@@ -1175,3 +1175,111 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Feb2025 04:36:55.102] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
 [08Feb2025 04:36:55.103] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
 [08Feb2025 04:37:05.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ariel puta
+[08Feb2025 04:37:10.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:37:11.362] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1095, y=-601, z=2}
+[08Feb2025 04:37:11.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:37:11.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[08Feb2025 04:37:24.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[08Feb2025 04:37:24.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[08Feb2025 04:37:24.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[08Feb2025 04:37:54.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7801c4e9[id=<null>,name=morax,properties={},legacy=false] (/127.193.97.13:59171): Took too long to log in
+[08Feb2025 04:37:54.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7801c4e9[id=<null>,name=morax,properties={},legacy=false] (/127.193.97.13:59171) lost connection: Took too long to log in
+[08Feb2025 04:37:54.418] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 04:38:27.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=980, y=65, z=2} BlockPos{x=980, y=63, z=1}
+[08Feb2025 04:38:34.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.10.67.234:43245] logged in with entity id 2927 at (1091.239460223937, 72.0, 0.7649358667041314)
+[08Feb2025 04:38:34.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[08Feb2025 04:38:35.013] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[08Feb2025 04:38:35.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[08Feb2025 04:38:35.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[08Feb2025 04:38:43.657] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2027ms or 40 ticks
+[08Feb2025 04:38:50.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:38:51.880] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:38:51.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[08Feb2025 04:39:20.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[08Feb2025 04:39:20.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[08Feb2025 04:39:20.083] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[08Feb2025 04:39:27.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david
+[08Feb2025 04:39:35.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> me puedes leer?
+[08Feb2025 04:39:46.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no
+[08Feb2025 04:39:55.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@183da29d[id=<null>,name=morax,properties={},legacy=false] (/127.193.97.13:33379): Took too long to log in
+[08Feb2025 04:39:55.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@183da29d[id=<null>,name=morax,properties={},legacy=false] (/127.193.97.13:33379) lost connection: Took too long to log in
+[08Feb2025 04:39:55.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 04:40:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> spawneame una vaca al lado
+[08Feb2025 04:40:46.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 04:40:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: se spawnear una vaca, pero no se como hacelo al lado tuyo<--[HERE]
+[08Feb2025 04:41:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se como spawnearla pero no al lado tuyo :(
+[08Feb2025 04:41:16.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.10.67.234:43393] logged in with entity id 3534 at (1091.239460223937, 72.0, 0.7649358667041314)
+[08Feb2025 04:41:16.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[08Feb2025 04:41:16.203] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[08Feb2025 04:41:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david singaoo
+[08Feb2025 04:41:16.783] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[08Feb2025 04:41:16.784] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[08Feb2025 04:41:35.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> o cerca
+[08Feb2025 04:41:40.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:41:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pon mis coords
+[08Feb2025 04:41:41.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:41:41.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[08Feb2025 04:41:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Denji: singao
+[08Feb2025 04:41:46.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[08Feb2025 04:41:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[08Feb2025 04:41:46.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[08Feb2025 04:41:50.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tampoco
+[08Feb2025 04:42:04.513] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@24e9d82e[id=<null>,name=morax,properties={},legacy=false] (/127.104.27.94:39971): Took too long to log in
+[08Feb2025 04:42:04.514] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24e9d82e[id=<null>,name=morax,properties={},legacy=false] (/127.104.27.94:39971) lost connection: Took too long to log in
+[08Feb2025 04:42:04.562] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 04:42:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> repinga
+[08Feb2025 04:42:08.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 04:42:08.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yo ando por la consola ahora mismo<--[HERE]
+[08Feb2025 04:42:10.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dame sangre
+[08Feb2025 04:42:11.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> normal
+[08Feb2025 04:42:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yo ando por la consola ahora mismo
+[08Feb2025 04:42:33.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no puedes usar comandos
+[08Feb2025 04:42:35.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ?
+[08Feb2025 04:42:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 04:42:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si<--[HERE]
+[08Feb2025 04:42:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si
+[08Feb2025 04:42:50.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> barra give
+[08Feb2025 04:43:02.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> give Asriel
+[08Feb2025 04:43:07.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y busca en el vampirism
+[08Feb2025 04:43:08.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.155.26.212:51487] logged in with entity id 3912 at (1091.239460223937, 72.0, 0.7649358667041314)
+[08Feb2025 04:43:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[08Feb2025 04:43:08.400] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[08Feb2025 04:43:09.628] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[08Feb2025 04:43:09.629] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[08Feb2025 04:43:10.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sangre
+[08Feb2025 04:43:15.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aaaaaa, tu si sabes pensar
+[08Feb2025 04:43:24.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:cow'
+[08Feb2025 04:43:24.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve Asriel cow<--[HERE]
+[08Feb2025 04:43:27.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> maria nevot me enseño a poner servers
+[08Feb2025 04:43:35.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:43:36.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:43:36.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[08Feb2025 04:43:38.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[08Feb2025 04:43:38.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[08Feb2025 04:43:38.430] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[08Feb2025 04:43:56.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:cow_spawner'
+[08Feb2025 04:43:56.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve Asriel minecraft:cow_spawner<--[HERE]
+[08Feb2025 04:44:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dime como se llama el huevo de spawner
+[08Feb2025 04:44:25.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> escribe cow
+[08Feb2025 04:44:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y busca el q diga Minecraft:
+[08Feb2025 04:44:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no funciona con cow
+[08Feb2025 04:44:49.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pa spawnear una vaca vanilla y no una rara ahi
+[08Feb2025 04:44:54.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eeeeee
+[08Feb2025 04:45:16.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.155.26.212:34869] logged in with entity id 4384 at (1091.239460223937, 72.0, 0.7649358667041314)
+[08Feb2025 04:45:16.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[08Feb2025 04:45:17.001] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[08Feb2025 04:45:18.026] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2f10b113[id=<null>,name=morax,properties={},legacy=false] (/127.193.97.13:52287): Took too long to log in
+[08Feb2025 04:45:18.026] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f10b113[id=<null>,name=morax,properties={},legacy=false] (/127.193.97.13:52287) lost connection: Took too long to log in
+[08Feb2025 04:45:18.030] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[08Feb2025 04:45:18.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[08Feb2025 04:45:18.082] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 04:45:22.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:45:23.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[08Feb2025 04:45:23.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[08Feb2025 04:45:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] es que no me deja seleccionar opciones
+[08Feb2025 04:45:52.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tengo que escribir directamente el comando
+[08Feb2025 04:45:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> UNETE AL VOICE
+[08Feb2025 04:46:06.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3220c8f6[id=<null>,name=morax,properties={},legacy=false] (/127.104.27.94:60475) lost connection: Disconnected
+[08Feb2025 04:46:29.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> davod mira telegram
+[08Feb2025 04:46:32.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david
+[08Feb2025 04:46:47.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no se te lisenç
