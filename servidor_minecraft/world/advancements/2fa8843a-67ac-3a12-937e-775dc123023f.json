@@ -5737,30 +5737,12 @@
     },
     "done": true
   },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2025-02-01 11:21:56 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-02-01 11:21:56 +0000"
-    },
-    "done": false
-  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "main": "2025-02-01 11:21:56 +0000",
       "flower": "2025-02-01 11:25:06 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-02-01 11:21:56 +0000"
-    },
-    "done": false
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
@@ -5769,30 +5751,12 @@
     },
     "done": true
   },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2025-02-01 11:21:56 +0000"
-    },
-    "done": false
-  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
       "blood_container": "2025-02-01 11:40:24 +0000",
       "main": "2025-02-01 11:21:56 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-02-01 11:21:56 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-02-01 11:21:56 +0000"
-    },
-    "done": false
   },
   "vampirism:vampire/become_vampire": {
     "criteria": {
