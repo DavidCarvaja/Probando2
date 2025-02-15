@@ -2581,3 +2581,132 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 20:21:37.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:36833] logged in with entity id 130251 at (1820.5367288779948, -19.0, 658.2463658040022)
 [15Feb2025 20:21:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
 [15Feb2025 20:21:37.431] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 20:21:41.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 20:21:41.841] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 20:22:07.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 20:22:07.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 20:22:07.469] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 20:22:42.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:51351] logged in with entity id 130342 at (1259.5, 73.0, 24.5)
+[15Feb2025 20:22:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 20:22:42.156] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 20:22:44.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 20:22:44.590] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 20:22:59.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:23:00.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:23:00.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 20:23:04.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:37651] logged in with entity id 130693 at (1820.5367288779948, -19.0, 658.2463658040022)
+[15Feb2025 20:23:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 20:23:04.631] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 20:23:05.890] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 20:23:05.890] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 20:23:07.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a
+[15Feb2025 20:23:34.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 20:23:34.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 20:23:34.640] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 20:24:26.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.59.83.12:52271] logged in with entity id 131403 at (1820.5367288779948, -19.0, 658.2463658040022)
+[15Feb2025 20:24:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 20:24:26.363] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 20:24:27.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 20:24:27.596] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 20:24:56.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 20:24:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 20:24:56.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 20:27:47.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@19bb6d2b[id=<null>,name=Denji,properties={},legacy=false] (/127.59.83.12:58083): Took too long to log in
+[15Feb2025 20:27:47.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19bb6d2b[id=<null>,name=Denji,properties={},legacy=false] (/127.59.83.12:58083) lost connection: Took too long to log in
+[15Feb2025 20:27:47.930] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:28:13.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[15Feb2025 20:28:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 20:28:13.225] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 20:28:41.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@634ad581[id=<null>,name=Denji,properties={},legacy=false] (/127.179.188.252:60223): Took too long to log in
+[15Feb2025 20:28:41.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@634ad581[id=<null>,name=Denji,properties={},legacy=false] (/127.179.188.252:60223) lost connection: Took too long to log in
+[15Feb2025 20:28:41.519] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:29:37.526] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@757b13b6[id=<null>,name=Denji,properties={},legacy=false] (/127.59.83.12:47915): Took too long to log in
+[15Feb2025 20:29:37.526] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@757b13b6[id=<null>,name=Denji,properties={},legacy=false] (/127.59.83.12:47915) lost connection: Took too long to log in
+[15Feb2025 20:29:37.572] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:29:46.123] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[15Feb2025 20:30:40.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3b19ba13[id=<null>,name=Denji,properties={},legacy=false] (/127.59.83.12:42243): Took too long to log in
+[15Feb2025 20:30:40.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b19ba13[id=<null>,name=Denji,properties={},legacy=false] (/127.59.83.12:42243) lost connection: Took too long to log in
+[15Feb2025 20:30:40.531] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:32:34.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:44539] logged in with entity id 134091 at (1274.699999988079, 63.0, 306.69999998807907)
+[15Feb2025 20:32:34.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 20:32:34.406] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 20:32:35.995] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 20:32:35.995] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 20:32:45.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5780561e[id=<null>,name=Denji,properties={},legacy=false] (/127.179.188.252:40617): Took too long to log in
+[15Feb2025 20:32:45.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5780561e[id=<null>,name=Denji,properties={},legacy=false] (/127.179.188.252:40617) lost connection: Took too long to log in
+[15Feb2025 20:32:45.577] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:32:48.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:32:49.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:32:49.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 20:33:04.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 20:33:04.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 20:33:04.476] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 20:33:22.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:51063] logged in with entity id 134432 at (1820.5367288779948, -19.0, 658.2463658040022)
+[15Feb2025 20:33:22.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 20:33:22.602] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 20:33:23.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 20:33:23.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 20:33:52.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 20:33:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 20:33:52.638] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 20:33:54.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:43931] logged in with entity id 135045 at (1274.699999988079, 63.0, 306.69999998807907)
+[15Feb2025 20:33:54.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 20:33:54.857] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 20:33:55.678] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2529ms or 50 ticks
+[15Feb2025 20:33:55.886] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 20:33:55.886] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 20:34:18.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:34:19.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:34:19.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 20:34:24.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 20:34:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 20:34:24.975] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 20:35:44.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:55245] logged in with entity id 135490 at (1274.699999988079, 63.0, 306.69999998807907)
+[15Feb2025 20:35:44.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 20:35:44.805] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 20:35:46.143] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 20:35:46.143] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 20:35:56.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:35:57.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 20:35:57.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 20:36:02.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.59.83.12:49469] logged in with entity id 135780 at (1820.5367288779948, -19.0, 658.2463658040022)
+[15Feb2025 20:36:02.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 20:36:02.664] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 20:36:03.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 20:36:03.622] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 20:36:03.623] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2413ms or 48 ticks
+[15Feb2025 20:36:07.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 20:36:08.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 20:36:08.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[15Feb2025 20:36:14.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 20:36:14.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 20:36:14.899] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 20:36:32.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> RAPIDO
+[15Feb2025 20:36:32.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 20:36:32.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 20:36:32.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 20:37:05.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:49257] logged in with entity id 136282 at (1820.5367288779948, -19.0, 658.2463658040022)
+[15Feb2025 20:37:05.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 20:37:05.600] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 20:37:06.577] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 20:37:06.578] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 20:37:12.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 20:37:13.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 20:37:13.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[15Feb2025 20:37:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> V A M O N O S
+[15Feb2025 20:37:43.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> ci
+[15Feb2025 20:38:23.821] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40505242[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:53905): Took too long to log in
+[15Feb2025 20:38:23.821] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40505242[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:53905) lost connection: Took too long to log in
+[15Feb2025 20:38:23.869] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:38:37.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> XDDDDD
+[15Feb2025 20:39:29.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@30f708aa[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:38891): Took too long to log in
+[15Feb2025 20:39:29.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30f708aa[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:38891) lost connection: Took too long to log in
+[15Feb2025 20:39:29.522] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:40:24.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@764a96d6[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:52039): Took too long to log in
+[15Feb2025 20:40:24.969] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@764a96d6[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:52039) lost connection: Took too long to log in
+[15Feb2025 20:40:25.020] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:40:34.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> X2
+[15Feb2025 20:41:26.718] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5d11b7fb[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:44325): Took too long to log in
+[15Feb2025 20:41:26.718] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d11b7fb[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:44325) lost connection: Took too long to log in
+[15Feb2025 20:41:26.768] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:41:27.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> AYUDAME A TRASFORMARME
