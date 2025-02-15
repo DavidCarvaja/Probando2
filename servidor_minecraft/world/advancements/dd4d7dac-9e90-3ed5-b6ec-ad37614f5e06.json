@@ -8881,9 +8881,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:12:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_gray": {
     "criteria": {
       "has_wool": "2025-02-15 20:44:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:12:16 +0000"
     },
     "done": true
   },
@@ -8893,15 +8905,45 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:12:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-02-15 20:44:48 +0000"
     },
     "done": true
   },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-02-15 21:12:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:12:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-02-15 20:44:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:17:18 +0000"
     },
     "done": true
   },
