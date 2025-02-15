@@ -5384,9 +5384,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-02-15 17:44:14 +0000",
       "main": "2025-02-01 09:15:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -8247,6 +8248,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-15 17:43:36 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/red_grape_bag": {
     "criteria": {
       "has_red_grape": "2025-02-15 17:12:15 +0000"
@@ -8268,6 +8275,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-02-15 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-15 17:43:36 +0000"
     },
     "done": true
   },

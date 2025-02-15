@@ -1517,3 +1517,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 17:36:39.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
 [15Feb2025 17:36:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
 [15Feb2025 17:36:39.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 17:37:42.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Bison, they gave up
+[15Feb2025 17:37:51.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[15Feb2025 17:37:53.611] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[15Feb2025 17:43:59.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:60785] logged in with entity id 35342 at (1207.6279214911167, 76.0, 889.4659651535281)
+[15Feb2025 17:43:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 17:43:59.869] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 17:44:00.619] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2656ms or 53 ticks
+[15Feb2025 17:44:04.200] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 17:44:04.201] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 17:44:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Bat Mode]
+[15Feb2025 17:44:29.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 17:44:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 17:44:29.993] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 17:46:28.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:52095] logged in with entity id 36497 at (1207.6279214911167, 76.0, 889.4659651535281)
+[15Feb2025 17:46:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 17:46:28.119] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 17:46:28.830] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 17:46:28.831] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 17:46:28.832] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
+[15Feb2025 17:46:48.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:46:49.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:46:49.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 17:46:58.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 17:46:58.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 17:46:58.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
