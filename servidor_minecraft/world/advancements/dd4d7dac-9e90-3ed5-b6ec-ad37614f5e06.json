@@ -406,6 +406,7 @@
     "criteria": {
       "shrubland": "2025-02-01 05:10:35 +0000",
       "scrubland": "2025-02-01 08:21:59 +0000",
+      "highland": "2025-02-15 20:52:49 +0000",
       "marsh": "2025-02-01 08:24:42 +0000",
       "wetland": "2025-02-08 04:56:51 +0000",
       "maple_woods": "2025-02-15 18:50:41 +0000",
@@ -8901,6 +8902,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-02-15 20:44:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-02-15 20:57:21 +0000"
     },
     "done": true
   },
