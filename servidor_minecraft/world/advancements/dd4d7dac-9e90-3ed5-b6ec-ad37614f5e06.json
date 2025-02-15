@@ -8211,6 +8211,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-02-15 06:53:38 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-15 06:35:55 +0000"
