@@ -1672,3 +1672,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 17:56:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
 [15Feb2025 17:56:29.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
 [15Feb2025 17:57:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 did not like the sun
+[15Feb2025 17:57:28.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:58369] logged in with entity id 42512 at (1205.239693950057, 76.0, 887.806250279465)
+[15Feb2025 17:57:28.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 17:57:28.666] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 17:57:29.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 17:57:29.719] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 17:57:43.529] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2214ms or 44 ticks
+[15Feb2025 17:57:44.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:57:45.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:57:45.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 17:57:47.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[15Feb2025 17:57:58.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 17:57:58.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 17:57:58.731] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 17:59:23.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:49965] logged in with entity id 43502 at (1205.239693950057, 76.0, 887.806250279465)
+[15Feb2025 17:59:23.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 17:59:23.958] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 17:59:24.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 17:59:24.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 17:59:40.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:59:41.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:59:41.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 18:00:18.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.59.83.12:52619] logged in with entity id 44009 at (1149.6744362936265, 90.0, 882.5708232663133)
+[15Feb2025 18:00:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 18:00:18.220] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 18:00:19.948] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 18:00:19.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 18:00:48.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 18:00:48.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 18:00:48.238] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 18:01:04.435] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[15Feb2025 18:01:52.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:41393] logged in with entity id 44453 at (1149.6744362936265, 90.0, 882.5708232663133)
+[15Feb2025 18:01:52.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 18:01:52.185] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 18:01:53.235] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 18:01:53.235] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 18:01:58.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 18:01:59.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 18:01:59.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[15Feb2025 18:03:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> MARICON
+[15Feb2025 18:03:07.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> nigaaa
+[15Feb2025 18:05:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Falcon] to Dalej]
+[15Feb2025 18:05:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> çostias
+[15Feb2025 18:07:08.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15Feb2025 18:07:28.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4930ms or 98 ticks behind
