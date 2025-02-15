@@ -1289,3 +1289,103 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 16:22:17.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
 [15Feb2025 16:22:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
 [15Feb2025 16:22:17.695] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[15Feb2025 16:23:00.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.138.239.127:34447] logged in with entity id 17765 at (891.7318970578146, -30.0, -33.31349087604982)
+[15Feb2025 16:23:00.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[15Feb2025 16:23:00.994] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[15Feb2025 16:23:01.919] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[15Feb2025 16:23:01.920] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[15Feb2025 16:23:05.469] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2237ms or 44 ticks
+[15Feb2025 16:23:13.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[15Feb2025 16:23:14.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[15Feb2025 16:23:14.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[15Feb2025 16:23:25.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el problema es q estoy en casa de la pinga
+[15Feb2025 16:23:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> todas las que me gustan viven en casa e la pinga
+[15Feb2025 16:23:42.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> con el universo tengo intriga
+[15Feb2025 16:23:50.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> por ti iria al infierno pero no hasta la lisa
+[15Feb2025 16:23:54.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> mami analiza analiza
+[15Feb2025 16:23:58.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ariel songao
+[15Feb2025 16:24:02.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15Feb2025 16:24:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] songao cdddd
+[15Feb2025 16:24:15.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> son'gao
+[15Feb2025 16:24:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> un proverbio chino decia
+[15Feb2025 16:24:29.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> chin chan chen chun wa chinga tu madle
+[15Feb2025 16:24:29.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 16:24:29.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 16:24:29.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 16:24:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> es mamando o david?
+[15Feb2025 16:24:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[15Feb2025 16:24:50.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> armando
+[15Feb2025 16:24:54.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no cd
+[15Feb2025 16:24:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a
+[15Feb2025 16:25:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a
+[15Feb2025 16:25:06.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> maliconson
+[15Feb2025 16:25:09.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] es tu amor al que le pediste las ventanas
+[15Feb2025 16:25:13.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :)
+[15Feb2025 16:25:18.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dios?
+[15Feb2025 16:25:26.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dame mis ventanas
+[15Feb2025 16:25:28.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.173.211.43:45201] logged in with entity id 20060 at (888.4348897494834, -11.012475966519299, -40.640238949943715)
+[15Feb2025 16:25:28.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[15Feb2025 16:25:28.870] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[15Feb2025 16:25:29.709] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[15Feb2025 16:25:29.709] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[15Feb2025 16:25:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> VAMO
+[15Feb2025 16:25:41.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:40997] logged in with entity id 20219 at (1218.5, 73.0, 882.5)
+[15Feb2025 16:25:41.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 16:25:41.494] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 16:25:42.330] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2476ms or 49 ticks
+[15Feb2025 16:25:43.501] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 16:25:43.501] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 16:25:45.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[15Feb2025 16:25:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> give me my windows lil nigga
+[15Feb2025 16:25:46.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[15Feb2025 16:25:46.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[15Feb2025 16:25:53.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> d
+[15Feb2025 16:26:06.276] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2089ms or 41 ticks
+[15Feb2025 16:26:08.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 16:26:09.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 16:26:09.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 16:26:26.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 16:26:26.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 16:26:26.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 16:27:09.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> unete al grupo
+[15Feb2025 16:27:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Spectator Mode]
+[15Feb2025 16:28:13.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:59971] logged in with entity id 22053 at (1218.5, 73.0, 882.5)
+[15Feb2025 16:28:13.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 16:28:13.491] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 16:28:14.369] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 16:28:14.369] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 16:28:21.450] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2044ms or 40 ticks
+[15Feb2025 16:28:22.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15Feb2025 16:28:27.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 16:28:28.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 16:28:28.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 16:28:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[15Feb2025 16:28:41.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4803ms or 96 ticks behind
+[15Feb2025 16:28:46.649] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2076ms or 41 ticks
+[15Feb2025 16:28:54.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 2.273913201656569,0.0,-9.791528419904296
+[15Feb2025 16:29:01.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
+[15Feb2025 16:29:03.990] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2114ms or 42 ticks
+[15Feb2025 16:29:22.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
+[15Feb2025 16:29:27.332] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
+[15Feb2025 16:29:42.383] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2073ms or 41 ticks
+[15Feb2025 16:29:47.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10595ms or 211 ticks behind
+[15Feb2025 16:30:09.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
+[15Feb2025 16:30:15.515] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[15Feb2025 16:30:26.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[15Feb2025 16:30:45.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3454ms or 69 ticks behind
+[15Feb2025 16:31:04.169] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2093ms or 41 ticks
+[15Feb2025 16:31:05.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5251ms or 105 ticks behind
+[15Feb2025 16:31:05.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/24492, l='ServerLevel[world]', x=48.67, y=145.50, z=-1507.49] died, message: 'Librarian hit the ground too hard'
+[15Feb2025 16:31:27.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7145ms or 142 ticks behind
+[15Feb2025 16:31:42.926] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[15Feb2025 16:31:51.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9185ms or 183 ticks behind
+[15Feb2025 16:31:59.577] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2122ms or 42 ticks
+[15Feb2025 16:32:14.947] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2104ms or 42 ticks
+[15Feb2025 16:32:21.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14990ms or 299 ticks behind
+[15Feb2025 16:32:30.056] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2136ms or 42 ticks
+[15Feb2025 16:32:46.580] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2110ms or 42 ticks
+[15Feb2025 16:32:47.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[15Feb2025 16:32:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[15Feb2025 16:32:47.332] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[15Feb2025 16:32:48.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25620, l='ServerLevel[world]', x=117.70, y=138.00, z=-1489.50] died, message: 'Unemployed was slain by Zombie'
+[15Feb2025 16:32:51.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14762ms or 295 ticks behind
