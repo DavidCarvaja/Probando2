@@ -112,6 +112,7 @@
       "minecraft:stony_peaks": "2025-02-02 06:15:06 +0000",
       "minecraft:sparse_jungle": "2025-02-02 22:32:47 +0000",
       "minecraft:river": "2025-02-01 07:03:58 +0000",
+      "minecraft:stony_shore": "2025-02-15 21:53:38 +0000",
       "minecraft:dripstone_caves": "2025-02-01 07:07:24 +0000",
       "minecraft:snowy_taiga": "2025-02-15 19:04:09 +0000",
       "minecraft:swamp": "2025-02-01 07:03:41 +0000",
@@ -407,6 +408,7 @@
       "highland": "2025-02-03 00:03:58 +0000",
       "jacaranda_glade": "2025-02-03 00:03:56 +0000",
       "marsh": "2025-02-01 08:25:37 +0000",
+      "jade_cliffs": "2025-02-15 21:39:04 +0000",
       "wetland": "2025-02-01 08:54:16 +0000",
       "old_growth_woodland": "2025-02-01 21:00:16 +0000",
       "maple_woods": "2025-02-15 19:30:29 +0000",
@@ -423,6 +425,7 @@
       "pasture": "2025-02-01 07:04:23 +0000",
       "volcanic_plains": "2025-02-02 22:29:58 +0000",
       "prairie": "2025-02-01 06:59:27 +0000",
+      "grassland": "2025-02-15 21:47:10 +0000",
       "rainforest": "2025-02-02 22:29:37 +0000",
       "snowy_maple_woods": "2025-02-15 19:32:48 +0000"
     },
@@ -8275,6 +8278,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/dark_pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-02-15 21:46:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-02-15 17:51:38 +0000"
@@ -8335,9 +8344,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-15 21:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-15 17:51:38 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-02-15 21:46:47 +0000"
     },
     "done": true
   },
@@ -8404,6 +8425,12 @@
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-02-15 17:51:38 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-02-15 21:46:47 +0000"
     },
     "done": true
   },
@@ -8533,6 +8560,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-02-15 21:39:59 +0000"
+    },
+    "done": true
+  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:taiga_grapes_white": "2025-02-15 19:26:21 +0000"
@@ -8599,6 +8632,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-02-15 21:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-02-15 17:52:57 +0000"
@@ -8662,6 +8701,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-02-15 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/dark_pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-02-15 21:46:47 +0000"
     },
     "done": true
   },
