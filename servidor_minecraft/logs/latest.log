@@ -3086,3 +3086,4 @@ java.lang.Throwable: null
 [15Feb2025 22:05:52.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
 [15Feb2025 22:05:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
 [15Feb2025 22:05:52.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 22:25:02.755] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2072ms or 41 ticks
