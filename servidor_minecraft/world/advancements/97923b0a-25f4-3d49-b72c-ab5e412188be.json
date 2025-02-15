@@ -8235,5 +8235,17 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-15 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-15 17:01:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
