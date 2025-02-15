@@ -1470,3 +1470,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 17:25:49.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [15Feb2025 17:25:56.644] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1133, y=-22, z=-756}
 [15Feb2025 17:26:06.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[15Feb2025 17:26:25.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[15Feb2025 17:26:44.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[15Feb2025 17:26:55.688] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[15Feb2025 17:26:55.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[15Feb2025 17:26:55.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[15Feb2025 17:26:55.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[15Feb2025 17:26:55.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[15Feb2025 17:26:55.689] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[15Feb2025 17:27:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Disturbing the Dead I]
+[15Feb2025 17:28:00.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Disturbing the Dead I]
+[15Feb2025 17:31:21.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15Feb2025 17:31:28.212] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2043ms or 40 ticks
+[15Feb2025 17:31:39.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[15Feb2025 17:31:57.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[15Feb2025 17:32:14.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[15Feb2025 17:32:16.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 17:32:16.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 17:32:16.524] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 17:33:44.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6a447644[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:49689): Took too long to log in
+[15Feb2025 17:33:44.973] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a447644[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:49689) lost connection: Took too long to log in
+[15Feb2025 17:33:45.030] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 17:34:28.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:41075] logged in with entity id 30513 at (1207.6279214911167, 76.0, 889.4659651535281)
+[15Feb2025 17:34:28.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 17:34:28.410] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 17:34:29.146] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2332ms or 46 ticks
+[15Feb2025 17:34:29.523] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 17:34:29.523] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 17:34:45.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:34:46.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:34:46.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 17:34:58.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 17:34:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 17:34:58.505] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 17:36:08.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:55175] logged in with entity id 31773 at (1207.6279214911167, 76.0, 889.4659651535281)
+[15Feb2025 17:36:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 17:36:08.855] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 17:36:09.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 17:36:09.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 17:36:13.399] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2386ms or 47 ticks
+[15Feb2025 17:36:28.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:36:29.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15Feb2025 17:36:29.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 17:36:29.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 17:36:34.815] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2046ms or 40 ticks
+[15Feb2025 17:36:39.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 17:36:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 17:36:39.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
