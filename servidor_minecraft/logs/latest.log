@@ -1607,3 +1607,146 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 05:40:31.005] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [15Feb2025 05:40:31.005] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [15Feb2025 05:40:37.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[15Feb2025 05:40:49.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[15Feb2025 05:40:49.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 05:40:49.677] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 05:40:49.815] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 05:41:59.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.249.129.176:50159] logged in with entity id 6110 at (432.0092194331435, 5.0, -405.75779915359396)
+[15Feb2025 05:41:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 05:41:59.178] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 05:42:00.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 05:42:00.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 05:42:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Corrupted Vindicator
+[15Feb2025 05:42:12.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 05:42:13.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 05:42:13.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 05:42:44.305] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2001ms or 40 ticks
+[15Feb2025 05:42:54.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Zombie
+[15Feb2025 05:42:55.786] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5630869c[id=<null>,name=keibel,properties={},legacy=false] (/127.210.76.24:34421) lost connection: Disconnected
+[15Feb2025 05:42:59.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 05:42:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 05:42:59.321] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 05:44:28.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.249.129.176:39213] logged in with entity id 6923 at (431.30000001192093, 6.5, -401.86089011068134)
+[15Feb2025 05:44:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 05:44:28.616] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 05:44:29.342] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Feb2025 05:44:29.368] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 05:44:29.369] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 05:44:30.052] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['morax'/6923, l='ServerLevel[world]', x=431.30, y=6.50, z=-401.86, removed=KILLED]
+[15Feb2025 05:44:42.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 05:44:43.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 05:44:43.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 05:45:06.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 05:45:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 05:45:06.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 05:45:21.162] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/fcb33033-a2d1-3bae-abae-bbc169e822af.json: Don't know what man_from_the_shadow:pills is
+[15Feb2025 05:45:21.162] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/fcb33033-a2d1-3bae-abae-bbc169e822af.json: Don't know what man:managgresive is
+[15Feb2025 05:45:21.163] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/fcb33033-a2d1-3bae-abae-bbc169e822af.json: Don't know what apollyon:the_damned is
+[15Feb2025 05:45:21.163] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/fcb33033-a2d1-3bae-abae-bbc169e822af.json: Don't know what apollyon:the_damned is
+[15Feb2025 05:45:21.163] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/fcb33033-a2d1-3bae-abae-bbc169e822af.json: Don't know what man_from_the_shadow:pills is
+[15Feb2025 05:45:21.173] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:apollyon' in progress file ./world/advancements/fcb33033-a2d1-3bae-abae-bbc169e822af.json - it doesn't exist anymore?
+[15Feb2025 05:45:21.173] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:condemned_to_die' in progress file ./world/advancements/fcb33033-a2d1-3bae-abae-bbc169e822af.json - it doesn't exist anymore?
+[15Feb2025 05:45:21.173] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/fcb33033-a2d1-3bae-abae-bbc169e822af.json - it doesn't exist anymore?
+[15Feb2025 05:45:21.175] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:back_to_hell' in progress file ./world/advancements/fcb33033-a2d1-3bae-abae-bbc169e822af.json - it doesn't exist anymore?
+[15Feb2025 05:45:21.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.173.211.43:44271] logged in with entity id 7267 at (26.02447907029462, 93.0, -138.76388625873554)
+[15Feb2025 05:45:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[15Feb2025 05:45:21.259] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[15Feb2025 05:45:21.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[15Feb2025 05:45:21.985] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[15Feb2025 05:45:22.272] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[15Feb2025 05:45:36.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[15Feb2025 05:45:37.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[15Feb2025 05:45:37.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[15Feb2025 05:45:49.717] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -49], discarding
+[15Feb2025 05:45:49.718] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -49], discarding
+[15Feb2025 05:45:49.720] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -49], discarding
+[15Feb2025 05:45:50.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> hola
+[15Feb2025 05:45:51.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[15Feb2025 05:45:51.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[15Feb2025 05:45:51.277] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[15Feb2025 05:45:55.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1f4bf25c[id=<null>,name=Denji,properties={},legacy=false] (/127.179.188.252:35851): Took too long to log in
+[15Feb2025 05:45:55.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f4bf25c[id=<null>,name=Denji,properties={},legacy=false] (/127.179.188.252:35851) lost connection: Took too long to log in
+[15Feb2025 05:45:55.459] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 05:46:23.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3793fc0c[id=<null>,name=keibel,properties={},legacy=false] (/127.210.76.24:32815) lost connection: Disconnected
+[15Feb2025 05:46:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Wraith
+[15Feb2025 05:47:09.209] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7195ddcc[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:57707) lost connection: Disconnected
+[15Feb2025 05:47:14.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 05:47:14.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 05:47:14.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 05:47:52.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.73.223.137:40291] logged in with entity id 8301 at (429.51249998807907, 10.0, -285.7646102805625)
+[15Feb2025 05:47:52.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 05:47:52.057] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[15Feb2025 05:47:52.058] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 05:47:52.771] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 05:47:52.772] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 05:47:56.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.59.83.12:43425] logged in with entity id 8563 at (1180.0137108151607, 63.0, -222.6705354986513)
+[15Feb2025 05:47:56.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 05:47:56.119] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 05:47:56.810] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [63, -28], discarding
+[15Feb2025 05:47:56.827] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [61, -28], discarding
+[15Feb2025 05:47:56.828] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [62, -28], discarding
+[15Feb2025 05:47:57.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 05:47:57.395] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 05:48:03.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 05:48:04.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 05:48:04.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[15Feb2025 05:48:10.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 05:48:11.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 05:48:11.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 05:48:16.333] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@65e2ed1a[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:38905): Took too long to log in
+[15Feb2025 05:48:16.334] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65e2ed1a[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:38905) lost connection: Took too long to log in
+[15Feb2025 05:48:16.382] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 05:48:37.862] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2018ms or 40 ticks
+[15Feb2025 05:49:13.878] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6dba806a[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:33025): Took too long to log in
+[15Feb2025 05:49:13.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6dba806a[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:33025) lost connection: Took too long to log in
+[15Feb2025 05:49:13.932] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 05:49:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Who turned the lights off?]
+[15Feb2025 05:49:56.077] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/5fc8c9a4-383b-332b-b07e-6dd2df639581.json: Don't know what man:managgresive is
+[15Feb2025 05:49:56.084] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/5fc8c9a4-383b-332b-b07e-6dd2df639581.json - it doesn't exist anymore?
+[15Feb2025 05:49:56.084] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:apollyon' in progress file ./world/advancements/5fc8c9a4-383b-332b-b07e-6dd2df639581.json - it doesn't exist anymore?
+[15Feb2025 05:49:56.084] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_knocker:cant_sleep' in progress file ./world/advancements/5fc8c9a4-383b-332b-b07e-6dd2df639581.json - it doesn't exist anymore?
+[15Feb2025 05:49:56.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.210.76.24:60355] logged in with entity id 9644 at (1214.1281643234684, 63.25, -209.11250001192093)
+[15Feb2025 05:49:56.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[15Feb2025 05:49:56.175] [Server thread/INFO] [Jade/]: Syncing config to keibel (5fc8c9a4-383b-332b-b07e-6dd2df639581)
+[15Feb2025 05:49:57.265] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of keibel (18)
+[15Feb2025 05:49:57.265] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to keibel
+[15Feb2025 05:50:03.375] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[15Feb2025 05:50:04.641] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [61, -31], discarding
+[15Feb2025 05:50:04.642] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [62, -31], discarding
+[15Feb2025 05:50:04.643] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [63, -31], discarding
+[15Feb2025 05:50:04.655] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [61, -30], discarding
+[15Feb2025 05:50:04.656] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [62, -30], discarding
+[15Feb2025 05:50:04.658] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apollyon:council_room
+[15Feb2025 05:50:04.658] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [63, -30], discarding
+[15Feb2025 05:50:04.670] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [61, -29], discarding
+[15Feb2025 05:50:04.671] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [62, -29], discarding
+[15Feb2025 05:50:04.672] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [63, -29], discarding
+[15Feb2025 05:50:13.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15Feb2025 05:50:26.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Timed out
+[15Feb2025 05:50:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[15Feb2025 05:50:26.166] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client keibel
+[15Feb2025 05:50:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Wraith
+[15Feb2025 05:50:41.822] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7a097c00[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:54057): Took too long to log in
+[15Feb2025 05:50:41.822] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a097c00[id=<null>,name=Dalej,properties={},legacy=false] (/127.173.211.43:54057) lost connection: Took too long to log in
+[15Feb2025 05:50:41.902] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

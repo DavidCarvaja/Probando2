@@ -122,18 +122,6 @@
     },
     "done": false
   },
-  "apollyon:apollyon": {
-    "criteria": {
-      "apollyon": "2025-01-30 05:02:50 +0000"
-    },
-    "done": true
-  },
-  "apollyon:condemned_to_die": {
-    "criteria": {
-      "condemned_to_die": "2025-01-30 18:15:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-30 18:15:58 +0000"
@@ -149,12 +137,6 @@
   "slashblade:root": {
     "criteria": {
       "attackTheEntity": "2025-01-30 18:35:19 +0000"
-    },
-    "done": true
-  },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-01-30 18:36:54 +0000"
     },
     "done": true
   },
@@ -7020,12 +7002,6 @@
   "slashblade:arts/combo_b": {
     "criteria": {
       "customtrigger": "2025-02-02 23:07:59 +0000"
-    },
-    "done": true
-  },
-  "apollyon:back_to_hell": {
-    "criteria": {
-      "back_to_hell": "2025-02-02 23:09:09 +0000"
     },
     "done": true
   },
