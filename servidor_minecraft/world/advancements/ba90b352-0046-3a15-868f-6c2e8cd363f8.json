@@ -179,6 +179,7 @@
       "scrubland": "2025-02-01 07:53:06 +0000",
       "marsh": "2025-02-01 08:25:37 +0000",
       "wetland": "2025-02-01 08:53:49 +0000",
+      "maple_woods": "2025-02-15 18:42:15 +0000",
       "bog": "2025-02-01 09:12:59 +0000",
       "spider_nest": "2025-02-01 07:06:09 +0000",
       "pasture": "2025-02-01 07:04:32 +0000",
@@ -8032,6 +8033,36 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-02-15 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-15 18:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-15 18:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 18:44:39 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-02-15 18:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 18:44:39 +0000"
     },
     "done": true
   },
