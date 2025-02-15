@@ -3072,3 +3072,17 @@ java.lang.Throwable: null
 [15Feb2025 22:02:53.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> voy arrecupera lo mi
 [15Feb2025 22:03:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Denji]
 [15Feb2025 22:03:43.453] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2024ms or 40 ticks
+[15Feb2025 22:04:00.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji moved too quickly! -9.83187480879451,0.07544406518948676,-1.9857176430014079
+[15Feb2025 22:04:27.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Naga, they gave up
+[15Feb2025 22:04:37.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported Denji to MandyXMaster687]
+[15Feb2025 22:04:51.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Denji]
+[15Feb2025 22:05:02.910] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2247ms or 44 ticks
+[15Feb2025 22:05:26.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1388, y=114, z=2119} BlockPos{x=1387, y=112, z=2119}
+[15Feb2025 22:05:26.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1388, y=114, z=2119} BlockPos{x=1387, y=112, z=2119}
+[15Feb2025 22:05:28.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1394, y=116, z=2114} BlockPos{x=1394, y=114, z=2113}
+[15Feb2025 22:05:29.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1394, y=116, z=2112} BlockPos{x=1393, y=114, z=2111}
+[15Feb2025 22:05:36.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1389, y=116, z=2087} BlockPos{x=1390, y=114, z=2085}
+[15Feb2025 22:05:36.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1389, y=116, z=2087} BlockPos{x=1390, y=114, z=2085}
+[15Feb2025 22:05:52.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 22:05:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 22:05:52.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
