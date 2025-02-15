@@ -2230,3 +2230,60 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 19:29:37.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [15Feb2025 19:29:55.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [15Feb2025 19:30:08.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> Q TE DIO
+[15Feb2025 19:30:13.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[15Feb2025 19:30:16.072] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
+[15Feb2025 19:30:32.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3897ms or 77 ticks behind
+[15Feb2025 19:30:48.295] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2060ms or 41 ticks
+[15Feb2025 19:30:49.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[15Feb2025 19:31:06.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[15Feb2025 19:31:24.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[15Feb2025 19:31:41.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[15Feb2025 19:32:00.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3547ms or 70 ticks behind
+[15Feb2025 19:32:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> pa donde vamos
+[15Feb2025 19:32:18.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3672ms or 73 ticks behind
+[15Feb2025 19:32:37.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3898ms or 77 ticks behind
+[15Feb2025 19:32:55.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[15Feb2025 19:33:12.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[15Feb2025 19:33:17.256] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2106ms or 42 ticks
+[15Feb2025 19:33:30.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[15Feb2025 19:33:50.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4291ms or 85 ticks behind
+[15Feb2025 19:34:08.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3696ms or 73 ticks behind
+[15Feb2025 19:34:09.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> follow me
+[15Feb2025 19:34:26.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[15Feb2025 19:34:45.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[15Feb2025 19:34:47.029] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[15Feb2025 19:35:04.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[15Feb2025 19:35:23.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[15Feb2025 19:35:41.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[15Feb2025 19:35:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> no
+[15Feb2025 19:35:59.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[15Feb2025 19:36:08.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> dejame ver
+[15Feb2025 19:36:19.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4516ms or 90 ticks behind
+[15Feb2025 19:36:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> peludas
+[15Feb2025 19:36:37.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[15Feb2025 19:36:56.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4074ms or 81 ticks behind
+[15Feb2025 19:37:16.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4859ms or 97 ticks behind
+[15Feb2025 19:37:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> no hay huevos
+[15Feb2025 19:37:34.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[15Feb2025 19:37:49.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> pòn cama
+[15Feb2025 19:37:53.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[15Feb2025 19:38:12.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
+[15Feb2025 19:38:32.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4689ms or 93 ticks behind
+[15Feb2025 19:38:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has made the advancement [Sneak 100]
+[15Feb2025 19:38:50.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[15Feb2025 19:39:09.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3811ms or 76 ticks behind
+[15Feb2025 19:39:28.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3962ms or 79 ticks behind
+[15Feb2025 19:39:46.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 19:39:46.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 19:39:46.962] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 19:39:47.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
+[15Feb2025 19:40:04.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[15Feb2025 19:40:14.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:37029] logged in with entity id 107549 at (1889.4609502649607, -24.0, 627.1335747849594)
+[15Feb2025 19:40:14.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 19:40:14.318] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 19:40:15.346] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 19:40:15.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 19:40:23.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[15Feb2025 19:40:27.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 19:40:28.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 19:40:28.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
