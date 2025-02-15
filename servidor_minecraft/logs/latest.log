@@ -3091,3 +3091,5 @@ java.lang.Throwable: null
 [15Feb2025 22:45:23.227] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2578ms or 51 ticks
 [15Feb2025 22:51:00.448] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/191212, l='ServerLevel[world]', x=928.50, y=68.50, z=-1103.50]
 [15Feb2025 22:52:41.222] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/191781, l='ServerLevel[world]', x=944.50, y=66.50, z=-1135.50]
+[15Feb2025 22:56:47.800] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1626, y=55, z=-959}
+[15Feb2025 23:00:02.742] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2049ms or 40 ticks

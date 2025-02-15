@@ -112,6 +112,7 @@
       "minecraft:stony_peaks": "2025-02-02 06:15:06 +0000",
       "minecraft:sparse_jungle": "2025-02-02 22:32:47 +0000",
       "minecraft:river": "2025-02-01 07:03:58 +0000",
+      "minecraft:snowy_plains": "2025-02-15 22:58:04 +0000",
       "minecraft:stony_shore": "2025-02-15 21:53:38 +0000",
       "minecraft:dripstone_caves": "2025-02-01 07:07:24 +0000",
       "minecraft:snowy_taiga": "2025-02-15 19:04:09 +0000",
@@ -8761,6 +8762,12 @@
   "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-02-15 21:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-15 23:02:37 +0000"
     },
     "done": true
   },
