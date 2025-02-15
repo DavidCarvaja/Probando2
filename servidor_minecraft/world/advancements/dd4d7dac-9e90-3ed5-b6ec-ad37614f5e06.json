@@ -403,10 +403,13 @@
       "scrubland": "2025-02-01 08:21:59 +0000",
       "marsh": "2025-02-01 08:24:42 +0000",
       "wetland": "2025-02-08 04:56:51 +0000",
+      "maple_woods": "2025-02-15 18:50:41 +0000",
       "bog": "2025-02-15 18:14:18 +0000",
+      "hot_springs": "2025-02-15 18:50:24 +0000",
       "spider_nest": "2025-02-02 05:46:46 +0000",
       "pasture": "2025-02-01 08:22:54 +0000",
-      "prairie": "2025-02-01 06:59:47 +0000"
+      "prairie": "2025-02-01 06:59:47 +0000",
+      "snowy_maple_woods": "2025-02-15 18:50:31 +0000"
     },
     "done": false
   },
@@ -8573,6 +8576,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-02-15 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-02-15 18:52:28 +0000"
     },
     "done": true
   },

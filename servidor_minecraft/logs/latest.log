@@ -1955,3 +1955,65 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 18:45:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
 [15Feb2025 18:45:02.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
 [15Feb2025 18:45:02.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[15Feb2025 18:49:33.276] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2062ms or 41 ticks
+[15Feb2025 18:50:25.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Feb2025 18:50:44.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
+[15Feb2025 18:51:01.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[15Feb2025 18:51:18.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[15Feb2025 18:51:22.709] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2087ms or 41 ticks
+[15Feb2025 18:51:36.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[15Feb2025 18:51:57.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[15Feb2025 18:52:14.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[15Feb2025 18:52:20.119] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[15Feb2025 18:52:32.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[15Feb2025 18:52:49.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[15Feb2025 18:53:08.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3515ms or 70 ticks behind
+[15Feb2025 18:53:26.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
+[15Feb2025 18:53:43.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[15Feb2025 18:54:03.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4634ms or 92 ticks behind
+[15Feb2025 18:54:21.393] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
+[15Feb2025 18:54:21.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
+[15Feb2025 18:54:40.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[15Feb2025 18:54:57.844] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2705ms or 54 ticks
+[15Feb2025 18:55:02.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7341ms or 146 ticks behind
+[15Feb2025 18:55:07.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:38429] logged in with entity id 81536 at (1449.8027769665298, 64.16610926093821, 427.75123900594906)
+[15Feb2025 18:55:07.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 18:55:07.037] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 18:55:08.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 18:55:08.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 18:55:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> quieres hace algo juntos
+[15Feb2025 18:55:24.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6834ms or 136 ticks behind
+[15Feb2025 18:55:37.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 18:55:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 18:55:37.128] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 18:55:37.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2104ms or 42 ticks
+[15Feb2025 18:55:45.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6104ms or 122 ticks behind
+[15Feb2025 18:56:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> dame un minuto pa conseguir 1 stack que me falta
+[15Feb2025 18:56:04.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
+[15Feb2025 18:56:10.674] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2065ms or 41 ticks
+[15Feb2025 18:56:25.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5310ms or 106 ticks behind
+[15Feb2025 18:56:44.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[15Feb2025 18:57:02.674] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2137ms or 42 ticks
+[15Feb2025 18:57:03.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
+[15Feb2025 18:57:10.303] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6f5c052[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:42037): Took too long to log in
+[15Feb2025 18:57:10.304] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f5c052[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:42037) lost connection: Took too long to log in
+[15Feb2025 18:57:10.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 18:57:21.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[15Feb2025 18:57:39.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[15Feb2025 18:57:56.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[15Feb2025 18:58:01.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.195.219.85:59137] logged in with entity id 84116 at (1449.8027769665298, 64.16610926093821, 427.75123900594906)
+[15Feb2025 18:58:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 18:58:01.196] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 18:58:04.799] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 18:58:04.799] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 18:58:15.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
+[15Feb2025 18:58:15.347] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[15Feb2025 18:58:30.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 18:58:31.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 18:58:31.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 18:58:36.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5900ms or 118 ticks behind
+[15Feb2025 18:58:58.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7472ms or 149 ticks behind
+[15Feb2025 18:59:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> ya
+[15Feb2025 18:59:17.360] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2117ms or 42 ticks
+[15Feb2025 18:59:22.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8824ms or 176 ticks behind
+[15Feb2025 18:59:35.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> como nos reunimos
