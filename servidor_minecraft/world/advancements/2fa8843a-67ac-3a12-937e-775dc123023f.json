@@ -116,18 +116,6 @@
     },
     "done": false
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-01-30 18:20:49 +0000"
-    },
-    "done": true
-  },
-  "apollyon:apollyon": {
-    "criteria": {
-      "apollyon": "2025-01-30 18:26:56 +0000"
-    },
-    "done": true
-  },
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2025-01-30 18:29:51 +0000"
@@ -2520,12 +2508,6 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-01 07:08:59 +0000"
-    },
-    "done": true
-  },
-  "the_knocker:cant_sleep": {
-    "criteria": {
-      "cant_sleep_0": "2025-02-01 07:10:11 +0000"
     },
     "done": true
   },
@@ -5616,12 +5598,6 @@
     },
     "done": true
   },
-  "apollyon:condemned_to_die": {
-    "criteria": {
-      "condemned_to_die": "2025-02-01 10:29:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-01 10:32:25 +0000"
@@ -7095,12 +7071,6 @@
     },
     "done": false
   },
-  "apollyon:back_to_hell": {
-    "criteria": {
-      "back_to_hell": "2025-02-02 08:24:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-02-02 08:24:54 +0000"
@@ -7486,21 +7456,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-02-08 05:44:28 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/combat/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-02-08 05:38:06 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-02-08 06:25:09 +0000"
     },
     "done": true
   },
@@ -7522,12 +7480,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-02-08 06:25:09 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
     "criteria": {
       "has_silver_ingot": "2025-02-08 05:38:06 +0000"
@@ -7537,12 +7489,6 @@
   "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_1": {
     "criteria": {
       "has_silver_ingot": "2025-02-08 05:38:06 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-02-08 06:25:09 +0000"
     },
     "done": true
   },
@@ -7558,6 +7504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-08 05:44:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-02-08 05:44:28 +0000"
@@ -7567,6 +7519,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-08 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-08 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-08 06:25:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-08 06:25:09 +0000"
     },
     "done": true
   },

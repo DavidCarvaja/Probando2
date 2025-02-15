@@ -1334,3 +1334,52 @@ java.lang.Throwable: null
 [15Feb2025 07:32:06.912] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id apollyon:the_infector
 [15Feb2025 07:32:09.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Spooky Scary Skeleton]
 [15Feb2025 07:33:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Acolyte
+[15Feb2025 07:35:07.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:35:34.057] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[15Feb2025 07:35:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was suffocated by Apothecarist's poisonous cloud
+[15Feb2025 07:36:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:37:55.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1642c717[id=<null>,name=Asriel,properties={},legacy=false] (/127.138.239.127:37431) lost connection: Disconnected
+[15Feb2025 07:38:20.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Tools of the Trade]
+[15Feb2025 07:38:41.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:38:43.226] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@446fca9c[id=<null>,name=Asriel,properties={},legacy=false] (/127.138.239.127:59649): Took too long to log in
+[15Feb2025 07:38:43.227] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@446fca9c[id=<null>,name=Asriel,properties={},legacy=false] (/127.138.239.127:59649) lost connection: Took too long to log in
+[15Feb2025 07:38:43.269] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 07:39:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:39:33.965] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/2fa8843a-67ac-3a12-937e-775dc123023f.json: Don't know what man_from_the_shadow:pills is
+[15Feb2025 07:39:33.965] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/2fa8843a-67ac-3a12-937e-775dc123023f.json: Don't know what apollyon:the_damned is
+[15Feb2025 07:39:33.965] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/2fa8843a-67ac-3a12-937e-775dc123023f.json: Don't know what man:managgresive is
+[15Feb2025 07:39:33.966] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/2fa8843a-67ac-3a12-937e-775dc123023f.json: Don't know what apollyon:the_damned is
+[15Feb2025 07:39:33.966] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/2fa8843a-67ac-3a12-937e-775dc123023f.json: Don't know what man_from_the_shadow:pills is
+[15Feb2025 07:39:33.976] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/2fa8843a-67ac-3a12-937e-775dc123023f.json - it doesn't exist anymore?
+[15Feb2025 07:39:33.976] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:apollyon' in progress file ./world/advancements/2fa8843a-67ac-3a12-937e-775dc123023f.json - it doesn't exist anymore?
+[15Feb2025 07:39:33.977] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_knocker:cant_sleep' in progress file ./world/advancements/2fa8843a-67ac-3a12-937e-775dc123023f.json - it doesn't exist anymore?
+[15Feb2025 07:39:33.978] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:condemned_to_die' in progress file ./world/advancements/2fa8843a-67ac-3a12-937e-775dc123023f.json - it doesn't exist anymore?
+[15Feb2025 07:39:33.979] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apollyon:back_to_hell' in progress file ./world/advancements/2fa8843a-67ac-3a12-937e-775dc123023f.json - it doesn't exist anymore?
+[15Feb2025 07:39:33.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.146.149.129:53337] logged in with entity id 68588 at (113.69270170782019, 64.0, 231.0167142362812)
+[15Feb2025 07:39:34.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[15Feb2025 07:39:34.043] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[15Feb2025 07:39:35.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[15Feb2025 07:39:35.339] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[15Feb2025 07:39:45.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[15Feb2025 07:39:46.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[15Feb2025 07:39:46.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[15Feb2025 07:40:20.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pellejo
+[15Feb2025 07:40:40.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[15Feb2025 07:40:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eduardo
+[15Feb2025 07:40:58.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estan x dc?
+[15Feb2025 07:40:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q
+[15Feb2025 07:41:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se me murio coñito
+[15Feb2025 07:41:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Hidden in the Depths]
+[15Feb2025 07:41:14.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el coño te lo voy a coger
+[15Feb2025 07:41:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se puso a defenderme
+[15Feb2025 07:41:18.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estan x dc?
+[15Feb2025 07:41:20.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[15Feb2025 07:41:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> cojone
+[15Feb2025 07:41:42.774] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
+[15Feb2025 07:41:42.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[15Feb2025 07:41:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a quitarle un poquito de polvo al discord voy
+[15Feb2025 07:42:20.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Feb2025 07:42:25.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a no, no puedo usar dc
+[15Feb2025 07:42:41.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Feb2025 07:43:11.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[15Feb2025 07:43:47.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

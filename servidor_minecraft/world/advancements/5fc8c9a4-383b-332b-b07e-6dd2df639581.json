@@ -6232,6 +6232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 07:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-15 07:15:37 +0000"
@@ -6295,6 +6301,12 @@
   "alexsmobs:alexsmobs/alligator_snapping_turtle": {
     "criteria": {
       "killed_by": "2025-02-15 06:34:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-02-15 07:41:08 +0000"
     },
     "done": true
   },
@@ -6379,6 +6391,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 06:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-15 07:41:07 +0000"
     },
     "done": true
   },
@@ -6928,6 +6946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 07:41:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-02-15 06:58:48 +0000"
@@ -7162,6 +7186,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-15 07:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-15 06:53:00 +0000"
@@ -7315,6 +7345,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_wool": "2025-02-15 07:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-15 07:32:09 +0000"
     },
     "done": true
   },
