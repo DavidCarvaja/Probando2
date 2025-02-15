@@ -2287,3 +2287,78 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 19:40:27.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
 [15Feb2025 19:40:28.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
 [15Feb2025 19:40:28.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[15Feb2025 19:40:32.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> pimga etecsa
+[15Feb2025 19:40:37.436] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2116ms or 42 ticks
+[15Feb2025 19:40:45.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6432ms or 128 ticks behind
+[15Feb2025 19:40:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> ven rapido
+[15Feb2025 19:40:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> pa q veas esto
+[15Feb2025 19:41:04.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[15Feb2025 19:41:23.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4021ms or 80 ticks behind
+[15Feb2025 19:41:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> y -23
+[15Feb2025 19:41:42.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3859ms or 77 ticks behind
+[15Feb2025 19:42:00.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[15Feb2025 19:42:18.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
+[15Feb2025 19:42:37.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
+[15Feb2025 19:42:45.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> ponme agua
+[15Feb2025 19:42:55.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[15Feb2025 19:43:14.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
+[15Feb2025 19:43:33.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4794ms or 95 ticks behind
+[15Feb2025 19:43:41.088] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
+[15Feb2025 19:43:54.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[15Feb2025 19:44:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> na mentira
+[15Feb2025 19:44:13.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[15Feb2025 19:44:22.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> eso es un zombi
+[15Feb2025 19:44:32.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[15Feb2025 19:44:49.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[15Feb2025 19:44:51.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji was obliterated by a sonically-charged shriek
+[15Feb2025 19:44:59.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[15Feb2025 19:44:59.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[15Feb2025 19:44:59.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[15Feb2025 19:45:07.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
+[15Feb2025 19:45:24.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[15Feb2025 19:45:28.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.179.188.252:41079] logged in with entity id 110012 at (1908.618781351016, -24.246800019478798, 623.3074631758789)
+[15Feb2025 19:45:28.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[15Feb2025 19:45:28.629] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[15Feb2025 19:45:29.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[15Feb2025 19:45:29.697] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[15Feb2025 19:45:29.755] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Denji'/110012, l='ServerLevel[world]', x=1908.62, y=-24.25, z=623.31, removed=KILLED]
+[15Feb2025 19:45:32.140] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2031ms or 40 ticks
+[15Feb2025 19:45:37.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 19:45:38.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06
+[15Feb2025 19:45:38.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06) successfully connected to voice chat
+[15Feb2025 19:45:42.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[15Feb2025 19:46:00.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[15Feb2025 19:46:19.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4157ms or 83 ticks behind
+[15Feb2025 19:46:19.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> hasme lo tuyo tpo
+[15Feb2025 19:46:29.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Denji]
+[15Feb2025 19:46:38.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
+[15Feb2025 19:46:50.203] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2045ms or 40 ticks
+[15Feb2025 19:46:56.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3811ms or 76 ticks behind
+[15Feb2025 19:47:14.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[15Feb2025 19:47:17.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported Denji to MandyXMaster687]
+[15Feb2025 19:47:33.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Feb2025 19:47:37.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1861, y=-26, z=646} BlockPos{x=1861, y=-28, z=646}
+[15Feb2025 19:47:53.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Feb2025 19:48:00.371] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 29], discarding
+[15Feb2025 19:48:00.372] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 30], discarding
+[15Feb2025 19:48:11.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Feb2025 19:48:28.440] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2108ms or 42 ticks
+[15Feb2025 19:48:33.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15Feb2025 19:48:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> te ayudo?
+[15Feb2025 19:48:45.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 19:48:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 19:48:45.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 19:49:46.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.86.213.1:35075] logged in with entity id 112434 at (890.2043471737912, 65.0, 374.2791424848989)
+[15Feb2025 19:49:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[15Feb2025 19:49:46.031] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[15Feb2025 19:49:46.917] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[15Feb2025 19:49:46.917] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[15Feb2025 19:49:51.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Onibi, they gave up
+[15Feb2025 19:50:00.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 19:50:01.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[15Feb2025 19:50:01.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[15Feb2025 19:50:16.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[15Feb2025 19:50:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[15Feb2025 19:50:16.099] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[15Feb2025 19:50:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji was obliterated by a sonically-charged shriek
+[15Feb2025 19:50:42.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was doomed to fall, they gave up

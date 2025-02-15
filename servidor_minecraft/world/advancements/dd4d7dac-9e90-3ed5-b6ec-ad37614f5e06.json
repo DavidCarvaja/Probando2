@@ -8844,12 +8844,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-02-15 19:38:33 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/dead_door": {
     "criteria": {
       "has_planks": "2025-02-15 19:28:40 +0000"
@@ -8865,6 +8859,12 @@
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 19:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-15 19:38:33 +0000"
     },
     "done": true
   },
