@@ -392,6 +392,7 @@
       "porkchop": "2025-02-08 07:40:51 +0000",
       "apple": "2025-02-01 05:50:43 +0000",
       "potato": "2025-02-01 08:07:10 +0000",
+      "cooked_cod": "2025-02-15 06:46:25 +0000",
       "mutton": "2025-02-08 07:38:22 +0000",
       "bread": "2025-02-01 06:18:12 +0000",
       "rotten_flesh": "2025-02-01 10:10:47 +0000",
@@ -7146,6 +7147,18 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-02-15 06:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-02-15 06:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-02-15 06:41:39 +0000"
     },
     "done": true
   },

@@ -8109,6 +8109,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-02-15 06:44:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-15 06:35:55 +0000"
@@ -8160,6 +8166,12 @@
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-02-15 06:35:55 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-02-15 06:44:23 +0000"
     },
     "done": true
   },
@@ -8232,6 +8244,12 @@
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-02-15 06:35:55 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-02-15 06:44:23 +0000"
     },
     "done": true
   },
