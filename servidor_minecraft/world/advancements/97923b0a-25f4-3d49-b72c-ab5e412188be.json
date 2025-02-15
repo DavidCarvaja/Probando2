@@ -8485,6 +8485,12 @@
     },
     "done": true
   },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-02-15 21:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-15 17:51:38 +0000"
@@ -8674,6 +8680,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-02-15 18:15:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-02-15 21:23:11 +0000"
     },
     "done": true
   },

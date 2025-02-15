@@ -2829,3 +2829,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 21:22:17.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> PA Q SIRVE
 [15Feb2025 21:23:10.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has completed the challenge [Regicide]
 [15Feb2025 21:23:10.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/159516, l='ServerLevel[world]', x=1406.43, y=81.00, z=1322.11] died: Vampire Baron Level 2 was slain by MandyXMaster687
+[15Feb2025 21:23:24.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Vampire Baron Level 2, they gave up
+[15Feb2025 21:24:05.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/160239, l='ServerLevel[world]', x=1399.72, y=81.31, z=1344.09] died: Denji scorched Vampire Baron Level 2
+[15Feb2025 21:24:05.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Denji, they gave up
+[15Feb2025 21:24:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> DAMELO
+[15Feb2025 21:26:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> VAMOS LOS 2 PA LA CIUDAD
+[15Feb2025 21:26:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> CUALQUIERA
+[15Feb2025 21:26:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> LA PRINCIPAL
+[15Feb2025 21:27:26.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> ESTABA
+[15Feb2025 21:28:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> PA LEVELEART
+[15Feb2025 21:30:09.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> QUE DURO
+[15Feb2025 21:30:35.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> CARGAME
+[15Feb2025 21:30:45.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> VAMOS A BUSCAR LA MESA
+[15Feb2025 21:31:07.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> LA DE SUBIR NIVEL DE VAMPIRO
+[15Feb2025 21:32:18.661] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
