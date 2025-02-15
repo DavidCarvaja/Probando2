@@ -2790,3 +2790,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 20:59:52.013] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [15Feb2025 20:59:58.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/145832, l='ServerLevel[world]', x=1451.41, y=115.00, z=1395.51] died, message: 'Unemployed was sucked dry fighting Denji'
 [15Feb2025 21:02:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji was slain by Vindicator
+[15Feb2025 21:03:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported Denji to MandyXMaster687]
+[15Feb2025 21:03:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> PP HAY COSAS EN LA CASA GRANDE
+[15Feb2025 21:05:07.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Into Fire]
+[15Feb2025 21:05:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was caught by Archevoker's fangs
+[15Feb2025 21:05:28.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Denji]
+[15Feb2025 21:05:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji was caught by Archevoker's fangs
+[15Feb2025 21:05:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was eviscerated by Archevoker's vexes
+[15Feb2025 21:06:06.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported Denji to MandyXMaster687]
+[15Feb2025 21:07:43.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/153228, l='ServerLevel[world]', x=1398.96, y=79.00, z=1379.01] died: Vampire Baron Level 2 was slain by Vampire Baron Level 2
+[15Feb2025 21:08:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> TEMGO 6 BOTELLS
+[15Feb2025 21:09:54.136] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2231ms or 44 ticks
+[15Feb2025 21:10:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> PA DONDE VAMOS
+[15Feb2025 21:12:14.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji has completed the challenge [Regicide]
+[15Feb2025 21:12:14.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/154223, l='ServerLevel[world]', x=1389.64, y=78.00, z=1379.61] died: Vampire Baron Level 1 was slain by Denji
+[15Feb2025 21:12:29.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> ME DIO SANGRE PURA
+[15Feb2025 21:12:54.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> PP VEN TENGO AQUI UNA NIVEL 4
