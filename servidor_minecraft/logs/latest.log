@@ -3093,3 +3093,6 @@ java.lang.Throwable: null
 [15Feb2025 22:52:41.222] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['THT-world_gen'/191781, l='ServerLevel[world]', x=944.50, y=66.50, z=-1135.50]
 [15Feb2025 22:56:47.800] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1626, y=55, z=-959}
 [15Feb2025 23:00:02.742] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2049ms or 40 ticks
+[15Feb2025 23:08:53.977] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2417ms or 48 ticks
+[15Feb2025 23:11:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 fell from a high place, they gave up
+[15Feb2025 23:11:57.483] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2514ms or 50 ticks
