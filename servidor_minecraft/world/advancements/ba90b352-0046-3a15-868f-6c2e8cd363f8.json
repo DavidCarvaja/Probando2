@@ -114,18 +114,6 @@
     },
     "done": false
   },
-  "apollyon:apollyon": {
-    "criteria": {
-      "apollyon": "2025-02-01 04:46:26 +0000"
-    },
-    "done": true
-  },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-02-01 04:46:36 +0000"
-    },
-    "done": true
-  },
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2025-02-01 05:08:21 +0000"
@@ -5259,12 +5247,6 @@
     },
     "done": true
   },
-  "apollyon:back_to_hell": {
-    "criteria": {
-      "back_to_hell": "2025-02-01 08:43:24 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_pure_blood": "2025-02-01 08:52:37 +0000"
@@ -5376,12 +5358,6 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 08:55:58 +0000"
-    },
-    "done": true
-  },
-  "the_knocker:cant_sleep": {
-    "criteria": {
-      "cant_sleep_0": "2025-02-01 08:56:18 +0000"
     },
     "done": true
   },
@@ -5538,12 +5514,6 @@
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-02-01 09:17:59 +0000"
-    },
-    "done": true
-  },
-  "apollyon:condemned_to_die": {
-    "criteria": {
-      "condemned_to_die": "2025-02-01 09:21:20 +0000"
     },
     "done": true
   },
@@ -6897,6 +6867,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-08 07:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-02-08 07:52:40 +0000"
@@ -6924,12 +6900,6 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-02-08 07:52:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-08 07:43:12 +0000"
     },
     "done": true
   },
