@@ -111,6 +111,7 @@
       "minecraft:swamp": "2025-02-01 08:24:03 +0000",
       "minecraft:forest": "2025-02-15 08:47:24 +0000",
       "minecraft:windswept_forest": "2025-02-15 08:50:58 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-15 08:57:59 +0000",
       "minecraft:flower_forest": "2025-02-01 04:39:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-15 08:47:29 +0000",
       "minecraft:meadow": "2025-02-01 07:52:05 +0000",
@@ -8349,6 +8350,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 08:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 09:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 08:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 08:57:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "kill": "2025-02-15 08:48:15 +0000"
@@ -8361,9 +8386,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 08:57:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-15 08:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-15 09:03:42 +0000"
     },
     "done": true
   },
@@ -8379,15 +8416,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-15 09:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-15 08:35:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 08:57:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-02-15 08:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-15 08:57:19 +0000"
     },
     "done": true
   },

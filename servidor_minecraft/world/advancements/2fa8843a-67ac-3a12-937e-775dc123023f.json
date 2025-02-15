@@ -7793,6 +7793,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-02-15 08:56:46 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-02-15 08:30:54 +0000"
