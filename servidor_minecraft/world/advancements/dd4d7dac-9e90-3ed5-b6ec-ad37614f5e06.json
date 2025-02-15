@@ -4617,6 +4617,7 @@
       "minecraft:pillager": "2025-02-02 07:49:37 +0000",
       "minecraft:skeleton": "2025-02-02 05:20:20 +0000",
       "minecraft:spider": "2025-02-02 07:59:25 +0000",
+      "minecraft:slime": "2025-02-15 08:34:59 +0000",
       "minecraft:witch": "2025-02-01 08:18:07 +0000",
       "minecraft:zombie": "2025-02-01 08:31:45 +0000"
     },
@@ -8091,12 +8092,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-02-15 07:46:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-15 06:35:55 +0000"
@@ -8112,12 +8107,6 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2025-02-15 06:35:55 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sweet_dough": {
-    "criteria": {
-      "has_sugar": "2025-02-15 06:44:23 +0000"
     },
     "done": true
   },
@@ -8142,12 +8131,6 @@
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-02-15 06:35:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-15 07:46:27 +0000"
     },
     "done": true
   },
@@ -8178,12 +8161,6 @@
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-02-15 06:35:55 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_dough": {
-    "criteria": {
-      "has_sugar": "2025-02-15 06:44:23 +0000"
     },
     "done": true
   },
@@ -8223,12 +8200,6 @@
     },
     "done": true
   },
-  "graveyard:graveyard/dead_tree": {
-    "criteria": {
-      "dead_tree": "2025-02-15 06:53:38 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-15 06:35:55 +0000"
@@ -8247,18 +8218,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-02-15 07:42:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-02-15 07:46:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-15 06:35:55 +0000"
@@ -8271,21 +8230,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-02-15 07:42:29 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-02-15 06:35:55 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/dough": {
-    "criteria": {
-      "has_sugar": "2025-02-15 06:44:23 +0000"
     },
     "done": true
   },
@@ -8340,6 +8287,84 @@
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-02-15 06:35:55 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-02-15 06:44:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-02-15 06:44:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-02-15 06:44:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-02-15 06:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-15 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-15 07:42:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-15 07:46:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:46:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-02-15 07:46:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 08:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 08:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 08:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-15 08:35:00 +0000"
     },
     "done": true
   },
