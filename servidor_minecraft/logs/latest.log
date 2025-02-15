@@ -3100,3 +3100,39 @@ java.lang.Throwable: null
 [15Feb2025 23:30:02.751] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
 [15Feb2025 23:32:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was killed by Necromancer's magic missile
 [15Feb2025 23:45:12.840] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2378ms or 47 ticks
+[15Feb2025 23:51:44.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 fell from a high place, they gave up
+[15Feb2025 23:52:06.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:35489] logged in with entity id 214080 at (1383.411394342094, 79.0, -531.7104595649057)
+[15Feb2025 23:52:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[15Feb2025 23:52:06.774] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[15Feb2025 23:52:08.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[15Feb2025 23:52:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[15Feb2025 23:52:08.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[15Feb2025 23:52:28.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[15Feb2025 23:52:28.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[15Feb2025 23:52:28.417] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[15Feb2025 23:53:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Feb2025 23:53:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Feb2025 23:53:21.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Feb2025 23:53:21.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Feb2025 23:53:21.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Feb2025 23:53:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Feb2025 23:53:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[15Feb2025 23:53:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Feb2025 23:53:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[15Feb2025 23:53:22.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[15Feb2025 23:53:22.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[15Feb2025 23:53:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[15Feb2025 23:53:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[15Feb2025 23:53:22.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Feb2025 23:53:22.708] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Feb2025 23:53:22.717] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[15Feb2025 23:53:22.721] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[15Feb2025 23:53:22.721] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[15Feb2025 23:53:22.748] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
