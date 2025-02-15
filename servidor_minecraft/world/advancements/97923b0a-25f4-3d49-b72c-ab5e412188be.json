@@ -112,9 +112,12 @@
       "minecraft:sparse_jungle": "2025-02-02 22:32:47 +0000",
       "minecraft:river": "2025-02-01 07:03:58 +0000",
       "minecraft:dripstone_caves": "2025-02-01 07:07:24 +0000",
+      "minecraft:snowy_taiga": "2025-02-15 19:04:09 +0000",
       "minecraft:swamp": "2025-02-01 07:03:41 +0000",
+      "minecraft:grove": "2025-02-15 19:03:59 +0000",
       "minecraft:forest": "2025-02-01 20:59:17 +0000",
       "minecraft:jungle": "2025-02-01 20:59:56 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-15 19:29:47 +0000",
       "minecraft:flower_forest": "2025-01-31 19:59:18 +0000",
       "minecraft:deep_dark": "2025-02-01 20:02:44 +0000",
       "minecraft:meadow": "2025-01-31 20:03:10 +0000",
@@ -411,6 +414,7 @@
       "bog": "2025-02-01 09:04:23 +0000",
       "coniferous_forest": "2025-02-15 18:35:50 +0000",
       "spider_nest": "2025-02-01 07:06:16 +0000",
+      "old_growth_dead_forest": "2025-02-15 19:18:40 +0000",
       "redwood_forest": "2025-02-15 18:22:05 +0000",
       "volcano": "2025-02-02 22:30:57 +0000",
       "pasture": "2025-02-01 07:04:23 +0000",
@@ -8284,6 +8288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-15 19:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-15 17:51:38 +0000"
@@ -8295,6 +8305,12 @@
       "has_stone": "2025-02-15 17:51:38 +0000"
     },
     "done": true
+  },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:taiga_grapes_white": "2025-02-15 19:26:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
@@ -8380,6 +8396,12 @@
     },
     "done": true
   },
+  "vinery:main/vineyard_visionary": {
+    "criteria": {
+      "vinery:taiga_grapes_white": "2025-02-15 19:26:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-02-15 17:43:36 +0000"
@@ -8425,6 +8447,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-15 17:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 19:24:10 +0000"
     },
     "done": true
   },
