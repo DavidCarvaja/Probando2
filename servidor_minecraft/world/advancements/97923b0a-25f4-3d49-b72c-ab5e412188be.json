@@ -8235,6 +8235,12 @@
     },
     "done": true
   },
+  "vinery:recipes/red_grape_bag": {
+    "criteria": {
+      "has_red_grape": "2025-02-15 17:12:15 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2025-02-15 17:02:58 +0000"
