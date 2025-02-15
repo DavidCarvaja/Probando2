@@ -6220,6 +6220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 07:51:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-02-15 07:15:39 +0000"
@@ -6262,6 +6268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-15 07:51:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 06:34:48 +0000"
@@ -6283,6 +6295,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-02-15 07:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-15 07:42:31 +0000"
     },
     "done": true
   },
@@ -6337,6 +6355,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-15 06:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 07:47:59 +0000"
     },
     "done": true
   },
@@ -6478,6 +6502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-15 07:51:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-15 06:48:22 +0000"
@@ -6517,6 +6547,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-02-15 07:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-15 07:51:18 +0000"
     },
     "done": true
   },
@@ -6592,6 +6628,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-15 07:47:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-15 07:15:39 +0000"
@@ -6655,6 +6697,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-15 06:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-15 07:47:59 +0000"
     },
     "done": true
   },
@@ -6757,6 +6805,12 @@
   "vampirism:recipes/decorations/vampire/coffin_white": {
     "criteria": {
       "has_wool": "2025-02-15 07:13:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-15 07:51:46 +0000"
     },
     "done": true
   },
@@ -6952,6 +7006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 07:47:54 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-02-15 06:58:48 +0000"
@@ -7102,6 +7162,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-15 07:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 07:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 06:34:48 +0000"
@@ -7141,6 +7213,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-15 07:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 07:51:19 +0000"
     },
     "done": true
   },

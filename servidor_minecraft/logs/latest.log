@@ -1383,3 +1383,14 @@ java.lang.Throwable: null
 [15Feb2025 07:42:41.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [15Feb2025 07:43:11.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [15Feb2025 07:43:47.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[15Feb2025 07:46:30.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> devuelvanme todos los minerales de mis cofres
+[15Feb2025 07:47:05.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:47:19.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Acolyte
+[15Feb2025 07:47:30.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Acolyte
+[15Feb2025 07:47:38.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:48:00.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:52:36.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Acolyte
+[15Feb2025 07:53:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Capturing Mobs]
+[15Feb2025 07:53:34.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Capture a mob using a Capture Cell]
+[15Feb2025 07:53:45.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Denji was slain by Acolyte, they gave up
+[15Feb2025 07:54:47.471] [Server thread/INFO] [Easy NPC/]: Opening menu b64fa3af-ea97-4890-af0b-8251a2823b42 for npc 4a2ca0b5-c53d-4a97-bcc0-0db6e756f627 and player ServerPlayer['morax'/6811, l='ServerLevel[world]', x=249.10, y=88.00, z=64.92] with DialogMenuHandler{displayName=literal{Hombre misterioso}[style={color=#FFFFFF}]}
