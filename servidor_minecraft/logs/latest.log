@@ -1316,3 +1316,21 @@ java.lang.Throwable: null
 [15Feb2025 07:18:09.917] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2448ms or 48 ticks
 [15Feb2025 07:18:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was blown up by Creeper
 [15Feb2025 07:23:57.940] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
+[15Feb2025 07:25:39.263] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[15Feb2025 07:29:42.347] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [38, 28], discarding
+[15Feb2025 07:29:42.348] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [38, 29], discarding
+[15Feb2025 07:29:42.349] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [38, 30], discarding
+[15Feb2025 07:29:42.370] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [37, 28], discarding
+[15Feb2025 07:29:42.372] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [37, 29], discarding
+[15Feb2025 07:29:42.374] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apollyon:council_room
+[15Feb2025 07:29:42.374] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [37, 30], discarding
+[15Feb2025 07:29:42.445] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 28], discarding
+[15Feb2025 07:29:42.446] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 29], discarding
+[15Feb2025 07:29:42.447] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 30], discarding
+[15Feb2025 07:29:42.952] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2087ms or 41 ticks
+[15Feb2025 07:30:55.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['COÑITO'/64025, l='ServerLevel[world]', x=886.36, y=65.06, z=411.64] died: COÑITO was caught by Apothecarist's fangs
+[15Feb2025 07:30:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was killed by Apothecarist using magic
+[15Feb2025 07:31:56.872] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=940, y=63, z=308}
+[15Feb2025 07:32:06.912] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id apollyon:the_infector
+[15Feb2025 07:32:09.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Spooky Scary Skeleton]
+[15Feb2025 07:33:17.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Acolyte

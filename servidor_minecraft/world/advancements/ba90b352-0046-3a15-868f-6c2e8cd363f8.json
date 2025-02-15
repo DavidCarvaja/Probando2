@@ -7218,6 +7218,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-15 07:24:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-15 07:09:30 +0000"
@@ -7290,6 +7296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 07:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-15 07:09:30 +0000"
@@ -7299,6 +7311,12 @@
   "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-15 07:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 07:24:18 +0000"
     },
     "done": true
   },
