@@ -114,12 +114,6 @@
     },
     "done": false
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-02-01 03:47:20 +0000"
-    },
-    "done": true
-  },
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2025-02-01 04:31:39 +0000"
@@ -129,12 +123,6 @@
   "slashblade:root": {
     "criteria": {
       "attackTheEntity": "2025-02-01 04:31:39 +0000"
-    },
-    "done": true
-  },
-  "apollyon:apollyon": {
-    "criteria": {
-      "apollyon": "2025-02-01 04:42:16 +0000"
     },
     "done": true
   },
@@ -4570,12 +4558,6 @@
     },
     "done": true
   },
-  "the_knocker:cant_sleep": {
-    "criteria": {
-      "cant_sleep_0": "2025-02-01 08:03:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-01 08:06:36 +0000"
@@ -5896,12 +5878,6 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-02-02 06:23:11 +0000"
-    },
-    "done": true
-  },
-  "apollyon:condemned_to_die": {
-    "criteria": {
-      "condemned_to_die": "2025-02-02 06:38:18 +0000"
     },
     "done": true
   },
