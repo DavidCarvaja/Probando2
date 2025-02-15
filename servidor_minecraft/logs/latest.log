@@ -2710,3 +2710,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Feb2025 20:41:26.718] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d11b7fb[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:44325) lost connection: Took too long to log in
 [15Feb2025 20:41:26.768] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [15Feb2025 20:41:27.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> AYUDAME A TRASFORMARME
+[15Feb2025 20:42:26.047] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@255b16dd[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:37197): Took too long to log in
+[15Feb2025 20:42:26.048] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@255b16dd[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:37197) lost connection: Took too long to log in
+[15Feb2025 20:42:26.086] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:43:47.720] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3fcdbf1[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:60633): Took too long to log in
+[15Feb2025 20:43:47.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fcdbf1[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:60633) lost connection: Took too long to log in
+[15Feb2025 20:43:47.773] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:44:51.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@35726369[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:56111): Took too long to log in
+[15Feb2025 20:44:51.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35726369[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:56111) lost connection: Took too long to log in
+[15Feb2025 20:44:51.972] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:45:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> ESO ES UN PÈRR
+[15Feb2025 20:45:53.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1fbba185[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:57299): Took too long to log in
+[15Feb2025 20:45:53.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fbba185[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:57299) lost connection: Took too long to log in
+[15Feb2025 20:45:53.769] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:47:06.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@12a9a418[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:57369): Took too long to log in
+[15Feb2025 20:47:06.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12a9a418[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:57369) lost connection: Took too long to log in
+[15Feb2025 20:47:07.021] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:47:22.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji was slain by Vampire Hunter
+[15Feb2025 20:47:28.450] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2456ms or 49 ticks
+[15Feb2025 20:47:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> ZSI
+[15Feb2025 20:47:55.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Denji]
+[15Feb2025 20:47:58.818] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7f4c5abf[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:44669): Took too long to log in
+[15Feb2025 20:47:58.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f4c5abf[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:44669) lost connection: Took too long to log in
+[15Feb2025 20:47:58.864] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:48:40.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> [x:1457, y:73, z:733, dim:minecraft:overworld]
+[15Feb2025 20:48:56.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported Denji to MandyXMaster687]
+[15Feb2025 20:49:01.266] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3d262893[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:54139): Took too long to log in
+[15Feb2025 20:49:01.266] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d262893[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:54139) lost connection: Took too long to log in
+[15Feb2025 20:49:01.317] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:50:17.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3df7553d[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:60611): Took too long to log in
+[15Feb2025 20:50:17.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3df7553d[id=<null>,name=morax,properties={},legacy=false] (/127.195.219.85:60611) lost connection: Took too long to log in
+[15Feb2025 20:50:17.480] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:50:39.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> 2
+[15Feb2025 20:51:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> 1
+[15Feb2025 20:51:17.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@ebbf8bb[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:43437): Took too long to log in
+[15Feb2025 20:51:17.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ebbf8bb[id=<null>,name=morax,properties={},legacy=false] (/127.86.213.1:43437) lost connection: Took too long to log in
+[15Feb2025 20:51:17.877] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 20:51:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Pic-A-Nic Basket?]
+[15Feb2025 20:52:24.192] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 141233
