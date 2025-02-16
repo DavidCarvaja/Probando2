@@ -2173,3 +2173,46 @@ Caused by: java.util.ConcurrentModificationException
 [16Feb2025 10:51:22.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
 [16Feb2025 10:51:22.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
 [16Feb2025 10:56:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Gravedigger]
+[16Feb2025 11:04:18.156] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Feb2025 11:04:18.157] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Feb2025 11:05:31.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Chompy]
+[16Feb2025 11:15:34.903] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2201ms or 44 ticks
+[16Feb2025 11:18:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Spooky Scary Skeleton]
+[16Feb2025 11:25:17.618] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: man:house
+[16Feb2025 11:32:00.177] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man_from_the_shadow:man_spy
+[16Feb2025 11:32:52.549] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -52], discarding
+[16Feb2025 11:32:52.551] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -52], discarding
+[16Feb2025 11:32:52.553] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -52], discarding
+[16Feb2025 11:32:52.565] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -51], discarding
+[16Feb2025 11:32:52.567] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -51], discarding
+[16Feb2025 11:32:52.569] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apollyon:council_room
+[16Feb2025 11:32:52.569] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -51], discarding
+[16Feb2025 11:32:52.578] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -50], discarding
+[16Feb2025 11:32:52.581] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -50], discarding
+[16Feb2025 11:32:52.583] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -50], discarding
+[16Feb2025 11:32:52.616] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -49], discarding
+[16Feb2025 11:32:52.618] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -49], discarding
+[16Feb2025 11:32:52.619] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -49], discarding
+[16Feb2025 11:39:37.058] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2006ms or 40 ticks
+[16Feb2025 11:44:00.057] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2083ms or 41 ticks
+[16Feb2025 11:45:28.999] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2021ms or 40 ticks
+[16Feb2025 11:46:12.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-521, y=1, z=-252} BlockPos{x=-520, y=0, z=-252}
+[16Feb2025 11:47:31.649] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Feb2025 11:47:31.649] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Feb2025 11:50:34.905] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2182ms or 43 ticks
+[16Feb2025 11:53:57.307] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[16Feb2025 11:58:43.590] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2070ms or 41 ticks
+[16Feb2025 12:00:34.921] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
+[16Feb2025 12:01:18.129] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2150ms or 43 ticks
+[16Feb2025 12:03:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [A Freezing Place]
+[16Feb2025 12:04:02.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has completed the challenge [The Coldest Golem]
+[16Feb2025 12:04:45.806] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3160ms or 63 ticks
+[16Feb2025 12:04:45.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -9.870589656075026,-1.1661092609382138,-1.5720312279370319
+[16Feb2025 12:05:52.189] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2205, y=-2, z=768}
+[16Feb2025 12:06:28.418] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2128ms or 42 ticks
+[16Feb2025 12:06:44.467] [Worker-Main-209/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[16Feb2025 12:06:44.472] [Worker-Main-209/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[16Feb2025 12:06:53.038] [Worker-Main-219/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2244, y=3, z=760}
+[16Feb2025 12:06:53.038] [Worker-Main-219/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2242, y=3, z=760}
+[16Feb2025 12:09:20.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Hunt and Gather]
+[16Feb2025 12:10:34.955] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2006ms or 40 ticks
