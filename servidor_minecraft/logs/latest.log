@@ -1055,3 +1055,35 @@ java.lang.Throwable: null
 [16Feb2025 00:26:47.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
 [16Feb2025 00:26:47.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
 [16Feb2025 00:29:36.164] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
+[16Feb2025 00:29:56.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[16Feb2025 00:29:57.467] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2001ms or 40 ticks
+[16Feb2025 00:30:23.347] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 9980
+[16Feb2025 00:30:24.691] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 9980
+[16Feb2025 00:30:26.259] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 9980
+[16Feb2025 00:30:28.525] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 9980
+[16Feb2025 00:30:51.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[16Feb2025 00:30:51.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 00:30:51.890] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 00:30:51.947] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 00:31:42.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4ce4e032[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:53687): Took too long to log in
+[16Feb2025 00:31:42.439] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ce4e032[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:53687) lost connection: Took too long to log in
+[16Feb2025 00:31:42.480] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 00:32:16.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:56461] logged in with entity id 11914 at (1329.7694779093551, 65.0, -210.48825961423438)
+[16Feb2025 00:32:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 00:32:16.473] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 00:32:17.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 00:32:17.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 00:32:46.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[16Feb2025 00:32:46.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 00:32:46.412] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 00:34:46.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:50649] logged in with entity id 12429 at (1329.7694779093551, 65.0, -210.48825961423438)
+[16Feb2025 00:34:47.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 00:34:47.089] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 00:34:47.109] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2113ms or 42 ticks
+[16Feb2025 00:34:48.163] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 00:34:48.164] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 00:34:55.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 00:34:56.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 00:34:56.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 00:35:00.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> as
+[16Feb2025 00:39:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Jorogumo, they gave up
