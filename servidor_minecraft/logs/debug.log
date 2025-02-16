@@ -13730,3 +13730,30 @@ Caused by: java.util.ConcurrentModificationException
 [16Feb2025 12:37:56.539] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
 [16Feb2025 12:40:36.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Feb2025 12:40:36.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 12:43:22.518] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [406ea827-8d9f-4502-b85b-68beda13dc0e]
+[16Feb2025 12:44:13.760] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [406ea827-8d9f-4502-b85b-68beda13dc0e]
+[16Feb2025 12:44:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
+[16Feb2025 12:45:36.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 12:45:36.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 12:46:32.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [406ea827-8d9f-4502-b85b-68beda13dc0e]
+[16Feb2025 12:46:33.808] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [406ea827-8d9f-4502-b85b-68beda13dc0e]
+[16Feb2025 12:47:11.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
+[16Feb2025 12:48:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
+[16Feb2025 12:49:34.066] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [406ea827-8d9f-4502-b85b-68beda13dc0e]
+[16Feb2025 12:50:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
+[16Feb2025 12:50:36.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 12:50:36.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 12:50:36.901] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[16Feb2025 12:50:38.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [406ea827-8d9f-4502-b85b-68beda13dc0e]
+[16Feb2025 12:51:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
+[16Feb2025 12:51:12.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[16Feb2025 12:52:45.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[16Feb2025 12:53:21.013] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[16Feb2025 12:53:55.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[16Feb2025 12:55:36.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 12:55:36.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 12:56:10.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[16Feb2025 12:57:11.162] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[16Feb2025 13:00:36.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 13:00:36.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 13:01:33.356] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
