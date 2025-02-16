@@ -9483,6 +9483,12 @@
     },
     "done": true
   },
+  "brewery:main/brewing_pioneer": {
+    "criteria": {
+      "brewing_station": "2025-02-16 10:18:57 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
     "criteria": {
       "has_coffin": "2025-02-16 10:10:55 +0000"
@@ -9639,9 +9645,21 @@
     },
     "done": true
   },
+  "brewery:recipes/patterned_carpet": {
+    "criteria": {
+      "has_patterned_wool": "2025-02-16 10:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-02-16 09:54:46 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/kill_beer_elemental": {
+    "criteria": {
+      "killed_elemental": "2025-02-16 10:27:34 +0000"
     },
     "done": true
   },
@@ -9672,6 +9690,12 @@
   "vampirism:recipes/decorations/general/blood_sieve": {
     "criteria": {
       "has_cauldron": "2025-02-16 10:16:06 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-02-16 10:28:01 +0000"
     },
     "done": true
   },
