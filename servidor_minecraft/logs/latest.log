@@ -1087,3 +1087,4 @@ java.lang.Throwable: null
 [16Feb2025 00:34:56.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
 [16Feb2025 00:35:00.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> as
 [16Feb2025 00:39:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Jorogumo, they gave up
+[16Feb2025 00:44:09.042] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
