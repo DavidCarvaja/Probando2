@@ -8658,6 +8658,18 @@
     },
     "done": true
   },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-16 10:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-16 10:30:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-02-16 07:27:50 +0000"
@@ -9033,6 +9045,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-16 09:08:47 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-02-16 10:30:49 +0000"
     },
     "done": true
   },
