@@ -8148,6 +8148,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-02-16 07:10:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2025-02-16 07:01:29 +0000"

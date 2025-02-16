@@ -1405,3 +1405,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [16Feb2025 06:58:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Werewolf Tooth] to Asriel]
+[16Feb2025 07:04:10.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After morax scorched MandyXMaster687, they gave up
+[16Feb2025 07:08:11.618] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[16Feb2025 07:09:18.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Feb2025 07:09:37.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Feb2025 07:10:01.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Feb2025 07:10:18.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[16Feb2025 07:10:25.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Alligator In Name Only]
+[16Feb2025 07:10:40.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Feb2025 07:10:58.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[16Feb2025 07:11:18.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 07:13:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> [name:"Warden City", x:1916, y:-47, z:606, dim:minecraft:overworld]
+[16Feb2025 07:13:17.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ratones
+[16Feb2025 07:13:25.958] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2159ms or 43 ticks
+[16Feb2025 07:13:26.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> voy von ustedes
