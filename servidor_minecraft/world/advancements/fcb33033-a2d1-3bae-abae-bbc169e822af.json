@@ -8429,9 +8429,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+  "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
-      "has_spruce_leaves": "2025-02-16 01:23:38 +0000"
+      "has_oak_trapdoor": "2025-02-16 01:17:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-02-16 01:21:13 +0000"
     },
     "done": true
   },
@@ -8453,27 +8459,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
-    "criteria": {
-      "has_birch_leaves": "2025-02-16 01:24:18 +0000"
-    },
-    "done": true
-  },
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-02-16 01:22:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
-      "has_campfire": "2025-02-16 01:21:13 +0000"
+      "has_spruce_leaves": "2025-02-16 01:23:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
     "criteria": {
-      "has_oak_trapdoor": "2025-02-16 01:17:53 +0000"
+      "has_birch_leaves": "2025-02-16 01:24:18 +0000"
     },
     "done": true
   },
