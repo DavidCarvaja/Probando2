@@ -9737,27 +9737,121 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-16 06:57:00 +0000"
     },
     "done": true
   },
-  "beautify:lamps": {
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
-      "requirement": "2025-02-16 08:33:03 +0000"
+      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_jojannik": {
+    "criteria": {
+      "whiskey_jojannik": "2025-02-16 07:43:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wine_somelier": {
+    "criteria": {
+      "vinery:bottle_mojang_noir": "2025-02-16 07:58:20 +0000",
+      "vinery:red_wine": "2025-02-16 07:58:19 +0000",
+      "vinery:solaris_wine": "2025-02-16 07:58:48 +0000",
+      "vinery:noir_wine": "2025-02-16 07:58:49 +0000",
+      "vinery:cherry_wine": "2025-02-16 07:58:15 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/the_noble_drop": {
+    "criteria": {
+      "have_any_wine": "2025-02-16 07:58:15 +0000"
     },
     "done": true
   },
   "werewolves:recipes/combat/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_1": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-02-16 08:33:03 +0000"
     },
     "done": true
   },
@@ -9785,91 +9879,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wine_somelier": {
-    "criteria": {
-      "vinery:bottle_mojang_noir": "2025-02-16 07:58:20 +0000",
-      "vinery:red_wine": "2025-02-16 07:58:19 +0000",
-      "vinery:solaris_wine": "2025-02-16 07:58:48 +0000",
-      "vinery:noir_wine": "2025-02-16 07:58:49 +0000",
-      "vinery:cherry_wine": "2025-02-16 07:58:15 +0000"
-    },
-    "done": false
-  },
-  "werewolves:recipes/combat/silver_helmet": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-16 08:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/the_noble_drop": {
-    "criteria": {
-      "have_any_wine": "2025-02-16 07:58:15 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_1": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/silver_chestplate": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
-    },
-    "done": true
-  },
-  "werewolves:recipes/combat/silver_boots": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-16 08:24:11 +0000"
     },
     "done": true
   },
@@ -9882,18 +9894,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-16 08:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:57:00 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_whiskey_jojannik": {
-    "criteria": {
-      "whiskey_jojannik": "2025-02-16 07:43:07 +0000"
     },
     "done": true
   },
