@@ -9749,9 +9749,25 @@
     },
     "done": true
   },
+  "vinery:main/wine_somelier": {
+    "criteria": {
+      "vinery:bottle_mojang_noir": "2025-02-16 07:58:20 +0000",
+      "vinery:red_wine": "2025-02-16 07:58:19 +0000",
+      "vinery:solaris_wine": "2025-02-16 07:58:48 +0000",
+      "vinery:noir_wine": "2025-02-16 07:58:49 +0000",
+      "vinery:cherry_wine": "2025-02-16 07:58:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-16 06:57:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/the_noble_drop": {
+    "criteria": {
+      "have_any_wine": "2025-02-16 07:58:15 +0000"
     },
     "done": true
   },

@@ -109,11 +109,13 @@
       "minecraft:windswept_hills": "2025-02-01 07:51:09 +0000",
       "minecraft:river": "2025-02-01 07:04:10 +0000",
       "minecraft:dripstone_caves": "2025-02-01 07:07:21 +0000",
+      "minecraft:snowy_taiga": "2025-02-16 07:44:24 +0000",
       "minecraft:swamp": "2025-02-01 07:03:46 +0000",
       "minecraft:forest": "2025-02-15 08:47:18 +0000",
       "minecraft:windswept_forest": "2025-02-15 08:50:59 +0000",
       "minecraft:flower_forest": "2025-02-01 05:08:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-15 08:47:23 +0000",
+      "minecraft:deep_dark": "2025-02-16 07:48:16 +0000",
       "minecraft:meadow": "2025-02-01 06:59:12 +0000",
       "minecraft:savanna": "2025-02-01 07:51:14 +0000",
       "minecraft:plains": "2025-02-01 03:43:41 +0000"
@@ -8578,6 +8580,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-02-16 06:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-16 07:52:38 +0000"
     },
     "done": true
   },

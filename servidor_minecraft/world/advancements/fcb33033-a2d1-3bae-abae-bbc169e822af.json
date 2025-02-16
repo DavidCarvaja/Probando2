@@ -9407,9 +9407,48 @@
     },
     "done": true
   },
+  "vinery:main/wine_somelier": {
+    "criteria": {
+      "vinery:glowing_wine": "2025-02-16 07:58:26 +0000",
+      "vinery:bottle_mojang_noir": "2025-02-16 07:58:02 +0000",
+      "vinery:mead": "2025-02-16 07:56:05 +0000",
+      "vinery:cristel_wine": "2025-02-16 07:58:20 +0000",
+      "vinery:apple_cider": "2025-02-16 07:56:46 +0000",
+      "vinery:strad_wine": "2025-02-16 07:57:49 +0000",
+      "vinery:red_wine": "2025-02-16 07:58:10 +0000",
+      "vinery:solaris_wine": "2025-02-16 07:58:30 +0000",
+      "vinery:noir_wine": "2025-02-16 07:58:37 +0000",
+      "vinery:cherry_wine": "2025-02-16 07:57:29 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-02-16 07:51:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/the_noble_drop": {
+    "criteria": {
+      "have_any_wine": "2025-02-16 07:56:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:red_grapejuice": "2025-02-16 07:55:50 +0000"
+    },
+    "done": false
+  },
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-02-16 07:39:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2025-02-16 07:55:50 +0000"
     },
     "done": true
   },

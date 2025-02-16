@@ -9203,3 +9203,42 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Feb2025 07:43:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported MandyXMaster687 to Dalej]
 [16Feb2025 07:44:04.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Feb2025 07:44:04.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 07:45:55.094] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[16Feb2025 07:45:55.094] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[16Feb2025 07:45:55.094] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[16Feb2025 07:45:55.095] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[16Feb2025 07:45:55.095] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[16Feb2025 07:45:55.095] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[16Feb2025 07:46:03.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Enderman
+[16Feb2025 07:49:04.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 07:49:04.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 07:49:09.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Jorogumo
+[16Feb2025 07:49:29.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Jorogumo
+[16Feb2025 07:49:31.870] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Asriel has new faction level werewolves:werewolf 1
+[16Feb2025 07:52:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Sneak 100]
+[16Feb2025 07:52:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Sneak 100]
+[16Feb2025 07:54:04.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 07:54:04.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 07:54:04.170] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2279ms or 45 ticks
+[16Feb2025 07:55:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Juicy Success]
+[16Feb2025 07:56:05.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [The Noble Drop]
+[16Feb2025 07:57:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 fell from a high place, they gave up
+[16Feb2025 07:57:42.329] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: MandyXMaster687 has new faction level vampirism:vampire 4
+[16Feb2025 07:58:15.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [The Noble Drop]
+[16Feb2025 07:59:04.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 07:59:04.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 08:01:54.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Feb2025 08:02:12.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[16Feb2025 08:02:38.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Feb2025 08:03:03.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Feb2025 08:03:27.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 08:03:47.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Feb2025 08:04:11.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 08:04:14.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Warden
+[16Feb2025 08:04:19.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 08:04:19.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 08:04:19.813] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
+[16Feb2025 08:04:30.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[16Feb2025 08:04:49.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4789ms or 95 ticks behind
+[16Feb2025 08:04:53.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[16Feb2025 08:05:09.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
