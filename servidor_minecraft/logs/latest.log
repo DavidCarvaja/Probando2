@@ -1377,3 +1377,49 @@ java.lang.Throwable: null
 [16Feb2025 02:01:41.152] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@32bc0f1c[id=<null>,name=Asriel,properties={},legacy=false] (/127.196.1.15:52211): Took too long to log in
 [16Feb2025 02:01:41.153] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32bc0f1c[id=<null>,name=Asriel,properties={},legacy=false] (/127.196.1.15:52211) lost connection: Took too long to log in
 [16Feb2025 02:01:41.203] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 02:03:18.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.136.165.38:48565] logged in with entity id 34445 at (657.6619582698247, 62.0, -132.69999998807907)
+[16Feb2025 02:03:18.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[16Feb2025 02:03:18.640] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[16Feb2025 02:03:19.194] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2520ms or 50 ticks
+[16Feb2025 02:03:19.458] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[16Feb2025 02:03:19.458] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[16Feb2025 02:03:36.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 02:03:38.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 02:03:38.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[16Feb2025 02:03:48.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[16Feb2025 02:03:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[16Feb2025 02:03:48.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[16Feb2025 02:06:49.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.136.165.38:54499] logged in with entity id 35636 at (657.6619582698247, 62.0, -132.69999998807907)
+[16Feb2025 02:06:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[16Feb2025 02:06:49.642] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[16Feb2025 02:06:50.198] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[16Feb2025 02:06:50.198] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[16Feb2025 02:07:04.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 02:07:05.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 02:07:05.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[16Feb2025 02:07:19.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[16Feb2025 02:07:19.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[16Feb2025 02:07:19.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[16Feb2025 02:08:51.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> wsa
+[16Feb2025 02:08:55.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[16Feb2025 02:08:55.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 02:08:55.700] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 02:09:54.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5f001780[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:36113): Took too long to log in
+[16Feb2025 02:09:54.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f001780[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:36113) lost connection: Took too long to log in
+[16Feb2025 02:09:54.401] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 02:10:20.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3aab0040[id=<null>,name=Asriel,properties={},legacy=false] (/127.196.17.162:52263): Took too long to log in
+[16Feb2025 02:10:20.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3aab0040[id=<null>,name=Asriel,properties={},legacy=false] (/127.196.17.162:52263) lost connection: Took too long to log in
+[16Feb2025 02:10:20.507] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 02:10:38.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@37eed94d[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:45975): Took too long to log in
+[16Feb2025 02:10:38.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37eed94d[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:45975) lost connection: Took too long to log in
+[16Feb2025 02:10:38.853] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 02:11:06.648] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63d5b[id=<null>,name=Asriel,properties={},legacy=false] (/127.136.165.38:33659) lost connection: Disconnected
+[16Feb2025 02:11:28.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@c3d7a5[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:57719): Took too long to log in
+[16Feb2025 02:11:28.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c3d7a5[id=<null>,name=Dalej,properties={},legacy=false] (/127.67.106.184:57719) lost connection: Took too long to log in
+[16Feb2025 02:11:28.057] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 02:12:07.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:59575] logged in with entity id 36811 at (1364.7468496807082, 78.0, -559.4201200747017)
+[16Feb2025 02:12:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 02:12:07.789] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 02:12:09.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[16Feb2025 02:12:09.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 02:12:09.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej

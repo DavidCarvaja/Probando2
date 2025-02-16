@@ -8489,5 +8489,11 @@
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-16 02:06:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
