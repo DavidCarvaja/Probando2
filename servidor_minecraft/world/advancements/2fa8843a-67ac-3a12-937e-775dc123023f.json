@@ -8718,5 +8718,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-02-16 10:11:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

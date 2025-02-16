@@ -8928,6 +8928,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 10:14:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-02-16 09:27:58 +0000"

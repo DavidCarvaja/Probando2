@@ -9477,9 +9477,39 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_brown_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-16 09:57:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-16 10:00:57 +0000"
     },
     "done": true
   },
@@ -9495,6 +9525,24 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-16 09:57:46 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/drying_expertise": {
+    "criteria": {
+      "silo": "2025-02-16 10:14:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
   "vinery:main/grape_picker": {
     "criteria": {
       "vinery:taiga_grapes_white": "2025-02-16 09:54:43 +0000"
@@ -9504,6 +9552,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-02-16 09:57:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
     },
     "done": true
   },
@@ -9525,6 +9579,42 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-16 10:00:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
+    },
+    "done": true
+  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:taiga_grapes_white": "2025-02-16 09:54:43 +0000"
@@ -9534,6 +9624,18 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-16 09:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-02-16 10:00:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
     },
     "done": true
   },
@@ -9555,9 +9657,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-16 10:00:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-02-16 09:57:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-02-16 10:16:06 +0000"
     },
     "done": true
   },
@@ -9570,6 +9684,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-16 09:57:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+    "criteria": {
+      "has_coffin": "2025-02-16 10:10:55 +0000"
     },
     "done": true
   },

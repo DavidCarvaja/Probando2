@@ -13059,3 +13059,24 @@ Caused by: java.util.ConcurrentModificationException
 [16Feb2025 09:57:50.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eeeeee
 [16Feb2025 09:57:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ilegal
 [16Feb2025 09:58:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> estoy organizando los cofres xd
+[16Feb2025 09:58:17.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16Feb2025 09:58:28.678] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
+[16Feb2025 09:58:36.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4205ms or 84 ticks behind
+[16Feb2025 09:59:06.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 09:59:28.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Feb2025 09:59:45.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[16Feb2025 10:00:02.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 10:00:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Who is Cutting Onions?]
+[16Feb2025 10:02:36.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 10:02:36.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 10:07:36.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 10:07:36.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 10:11:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Magery]
+[16Feb2025 10:12:36.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 10:12:36.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 10:14:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Tastes Like Chicken]
+[16Feb2025 10:14:36.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has reached the goal [Drying Expertise]
+[16Feb2025 10:15:34.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [2fa8843a-67ac-3a12-937e-775dc123023f]
+[16Feb2025 10:17:36.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 10:17:36.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 10:17:51.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -9.847748394446967,2.024424088213685,-1.5304954807120268
