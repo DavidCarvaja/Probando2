@@ -9320,6 +9320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-16 13:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 11:00:15 +0000"
@@ -9341,6 +9347,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-02-16 12:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-02-16 13:03:33 +0000"
     },
     "done": true
   },

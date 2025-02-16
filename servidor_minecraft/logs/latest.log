@@ -2233,3 +2233,5 @@ Caused by: java.util.ConcurrentModificationException
 [16Feb2025 12:50:36.901] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
 [16Feb2025 12:51:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
 [16Feb2025 12:51:12.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[16Feb2025 13:05:25.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Warden
+[16Feb2025 13:10:40.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
