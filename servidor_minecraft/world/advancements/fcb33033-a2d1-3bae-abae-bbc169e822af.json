@@ -8735,6 +8735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-16 03:02:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 02:30:32 +0000"
@@ -8960,6 +8966,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 02:30:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_grinder": {
+    "criteria": {
+      "has_hopper": "2025-02-16 03:01:48 +0000"
     },
     "done": true
   },
