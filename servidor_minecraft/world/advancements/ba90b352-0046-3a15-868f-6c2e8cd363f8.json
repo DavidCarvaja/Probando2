@@ -8286,6 +8286,12 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-02-16 06:31:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-02-16 05:46:11 +0000"
@@ -8322,9 +8328,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-02-16 06:27:31 +0000"
+    },
+    "done": false
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-02-16 06:30:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-16 06:26:03 +0000"
     },
     "done": true
   },
@@ -8334,15 +8358,45 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-16 06:26:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-16 06:11:19 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-02-16 06:36:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_relicheirus": "2025-02-16 06:35:42 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-02-16 06:30:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 06:36:32 +0000"
     },
     "done": true
   },
@@ -8355,6 +8409,18 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-16 06:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-16 06:27:31 +0000"
     },
     "done": true
   },

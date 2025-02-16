@@ -1194,3 +1194,88 @@ java.lang.Throwable: null
 [16Feb2025 06:15:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Jorogumo
 [16Feb2025 06:15:27.265] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2226ms or 44 ticks
 [16Feb2025 06:16:02.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dasdas
+[16Feb2025 06:24:32.614] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2120ms or 42 ticks
+[16Feb2025 06:24:37.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has reached the goal [The Cave That Time Forgot]
+[16Feb2025 06:26:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [The Parrots and the Bats]
+[16Feb2025 06:26:37.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was melted by morax's poisonous breath
+[16Feb2025 06:27:31.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [A Seedy Place]
+[16Feb2025 06:28:01.486] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2219ms or 44 ticks
+[16Feb2025 06:30:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Capturing Mobs]
+[16Feb2025 06:31:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Capture a mob using a Capture Cell]
+[16Feb2025 06:32:32.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:58025] logged in with entity id 31594 at (1384.6447110919642, 79.0, -548.3758250546168)
+[16Feb2025 06:32:32.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[16Feb2025 06:32:32.565] [Server thread/INFO] [Jade/]: Syncing config to MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be)
+[16Feb2025 06:32:35.071] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
+[16Feb2025 06:32:35.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
+[16Feb2025 06:32:46.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 97923b0a-25f4-3d49-b72c-ab5e412188be
+[16Feb2025 06:32:47.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 97923b0a-25f4-3d49-b72c-ab5e412188be
+[16Feb2025 06:32:47.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be) successfully connected to voice chat
+[16Feb2025 06:32:47.828] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2071ms or 41 ticks
+[16Feb2025 06:34:01.170] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks
+[16Feb2025 06:34:45.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Feb2025 06:35:12.927] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
+[16Feb2025 06:35:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Life Finds A Way]
+[16Feb2025 06:36:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Re-Extinct]
+[16Feb2025 06:36:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Tastes Like Chicken]
+[16Feb2025 06:36:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Swaggy Meal Mommy Made It]
+[16Feb2025 06:36:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Swaggy Meal Mommy Made It]
+[16Feb2025 06:37:10.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 did not like the sun
+[16Feb2025 06:37:10.699] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Feb2025 06:37:10.700] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Feb2025 06:37:18.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> hahaha lil nigga
+[16Feb2025 06:37:30.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> no colmillation for u
+[16Feb2025 06:37:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> nooo pli colmillation
+[16Feb2025 06:37:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> :>
+[16Feb2025 06:37:51.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> :=
+[16Feb2025 06:38:16.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:37373] logged in with entity id 35014 at (1387.5996549800318, 80.79229211612345, -543.9236646589891)
+[16Feb2025 06:38:16.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 06:38:16.161] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 06:38:19.091] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 06:38:19.091] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 06:38:27.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 06:38:28.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 06:38:28.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 06:38:58.706] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[16Feb2025 06:40:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Once Upon a Cave]

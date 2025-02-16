@@ -8094,5 +8094,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 06:36:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 06:36:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
