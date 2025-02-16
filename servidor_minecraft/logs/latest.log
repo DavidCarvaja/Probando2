@@ -1423,3 +1423,12 @@ java.lang.Throwable: null
 [16Feb2025 02:12:09.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
 [16Feb2025 02:12:09.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [16Feb2025 02:12:09.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 02:14:30.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:53513] logged in with entity id 37329 at (1364.7468496807082, 78.0, -559.4201200747017)
+[16Feb2025 02:14:30.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 02:14:30.894] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 02:14:33.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 02:14:33.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 02:14:59.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 02:15:00.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 02:15:00.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 02:21:22.257] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2216ms or 44 ticks
