@@ -1497,3 +1497,61 @@ java.lang.Throwable: null
 [16Feb2025 02:52:23.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
 [16Feb2025 02:52:23.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
 [16Feb2025 02:52:23.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 02:54:01.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 9.120844707224705,0.0,5.772207848360836
+[16Feb2025 02:54:51.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.192.150.42:43641] logged in with entity id 47240 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 02:54:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 02:54:51.341] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 02:54:53.116] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 02:54:53.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 02:55:11.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -7.585397573455566,0.0,-7.253951600119535
+[16Feb2025 02:55:17.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 02:55:18.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 02:55:18.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 02:55:21.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[16Feb2025 02:55:21.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 02:55:21.417] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 02:56:22.257] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2151ms or 43 ticks
+[16Feb2025 02:57:33.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.192.150.42:47803] logged in with entity id 48354 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 02:57:33.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 02:57:33.437] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 02:57:35.284] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 02:57:35.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 02:57:51.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.196.17.162:33525] logged in with entity id 48783 at (657.6619582698247, 62.0, -132.69999998807907)
+[16Feb2025 02:57:51.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[16Feb2025 02:57:51.408] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[16Feb2025 02:57:52.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[16Feb2025 02:57:52.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[16Feb2025 02:57:58.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 02:57:59.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 02:57:59.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 02:58:03.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[16Feb2025 02:58:03.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 02:58:03.537] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 02:58:06.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 02:58:07.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 02:58:07.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[16Feb2025 02:58:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Zombie
+[16Feb2025 02:58:21.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[16Feb2025 02:58:21.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[16Feb2025 02:58:21.531] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[16Feb2025 03:01:17.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.532647930647727,0.0,-3.656459813370134
+[16Feb2025 03:01:18.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@347db173[id=<null>,name=morax,properties={},legacy=false] (/127.32.67.169:49979): Took too long to log in
+[16Feb2025 03:01:18.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@347db173[id=<null>,name=morax,properties={},legacy=false] (/127.32.67.169:49979) lost connection: Took too long to log in
+[16Feb2025 03:01:18.801] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 03:01:20.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.944675900406537,0.0,1.9119470759021624
+[16Feb2025 03:02:00.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.192.150.42:45983] logged in with entity id 50051 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 03:02:00.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 03:02:00.834] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 03:02:01.559] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2439ms or 48 ticks
+[16Feb2025 03:02:02.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 03:02:02.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 03:02:29.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 03:02:30.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 03:02:30.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 03:02:30.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[16Feb2025 03:02:30.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 03:02:30.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 03:02:56.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -4.967252228755797,-0.11541106805421464,8.771085665638452
+[16Feb2025 03:03:03.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 4.1335278966962505,0.0,-9.803923028898453
+[16Feb2025 03:03:06.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -9.351686524851857,1.3067364808936617,-3.4746429792203344
+[16Feb2025 03:03:09.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -10.34775456952184,0.0,-1.0552351277564185
