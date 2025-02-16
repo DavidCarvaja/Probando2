@@ -8843,5 +8843,17 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-16 00:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 00:19:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

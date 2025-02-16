@@ -1025,3 +1025,33 @@ java.lang.Throwable: null
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [16Feb2025 00:04:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported MandyXMaster687 to Dalej]
 [16Feb2025 00:04:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[16Feb2025 00:11:20.253] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2161ms or 43 ticks
+[16Feb2025 00:18:12.422] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2092ms or 41 ticks
+[16Feb2025 00:19:11.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Anaconda, they gave up
+[16Feb2025 00:19:20.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[16Feb2025 00:23:01.610] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[16Feb2025 00:23:01.611] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[16Feb2025 00:23:01.613] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[16Feb2025 00:23:01.613] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[16Feb2025 00:24:46.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[16Feb2025 00:24:46.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 00:24:46.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 00:24:46.112] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 00:25:13.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:39517] logged in with entity id 8388 at (1197.5026606328188, 66.0, 58.8738160943453)
+[16Feb2025 00:25:13.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 00:25:13.168] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 00:25:14.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 00:25:14.435] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 00:25:43.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[16Feb2025 00:25:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 00:25:43.166] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 00:26:20.227] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[16Feb2025 00:26:36.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:44509] logged in with entity id 8750 at (1197.5026606328188, 66.0, 58.8738160943453)
+[16Feb2025 00:26:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 00:26:36.573] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 00:26:37.666] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 00:26:37.666] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 00:26:46.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 00:26:47.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 00:26:47.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 00:29:36.164] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
