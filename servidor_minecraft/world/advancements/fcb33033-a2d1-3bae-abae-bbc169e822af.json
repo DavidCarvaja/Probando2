@@ -9645,6 +9645,12 @@
     },
     "done": true
   },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2025-02-16 10:41:12 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/patterned_carpet": {
     "criteria": {
       "has_patterned_wool": "2025-02-16 10:27:36 +0000"
