@@ -1169,3 +1169,62 @@ java.lang.Throwable: null
 [16Feb2025 01:10:42.405] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7c697a21[id=<null>,name=morax,properties={},legacy=false] (/127.192.150.42:57239): Took too long to log in
 [16Feb2025 01:10:42.406] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c697a21[id=<null>,name=morax,properties={},legacy=false] (/127.192.150.42:57239) lost connection: Took too long to log in
 [16Feb2025 01:10:42.455] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 01:11:17.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.32.67.169:55641] logged in with entity id 20904 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 01:11:17.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 01:11:17.344] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 01:11:19.078] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 01:11:19.079] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 01:11:48.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 01:11:49.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[16Feb2025 01:11:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 01:11:49.176] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 01:11:49.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 01:11:49.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 01:12:11.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[16Feb2025 01:12:11.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 01:12:11.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 01:12:36.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:55781] logged in with entity id 21438 at (1371.1944583930904, 85.11961271831576, -550.4507893207759)
+[16Feb2025 01:12:36.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 01:12:37.024] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 01:12:37.031] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2108ms or 42 ticks
+[16Feb2025 01:12:38.272] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 01:12:38.272] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 01:12:50.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 01:12:51.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 01:12:51.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 01:13:18.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4e2a68d9[id=<null>,name=morax,properties={},legacy=false] (/127.192.150.42:34577): Took too long to log in
+[16Feb2025 01:13:18.451] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e2a68d9[id=<null>,name=morax,properties={},legacy=false] (/127.192.150.42:34577) lost connection: Took too long to log in
+[16Feb2025 01:13:18.504] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 01:13:37.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 0.7269572904049255,3.7499660797817,-9.868890795979382
+[16Feb2025 01:14:53.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.32.67.169:54143] logged in with entity id 21845 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 01:14:53.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 01:14:53.794] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 01:14:55.929] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 01:14:55.929] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 01:15:23.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[16Feb2025 01:15:23.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 01:15:23.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 01:17:49.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.192.150.42:38073] logged in with entity id 22487 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 01:17:49.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 01:17:49.739] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 01:17:50.698] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 01:17:50.699] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 01:18:07.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 01:18:08.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 01:18:08.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 01:18:19.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[16Feb2025 01:18:19.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 01:18:19.867] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 01:20:02.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.192.150.42:59575] logged in with entity id 23134 at (1274.699999988079, 63.0, 306.69999998807907)
+[16Feb2025 01:20:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 01:20:02.351] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 01:20:03.193] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2766ms or 55 ticks
+[16Feb2025 01:20:04.331] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 01:20:04.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 01:20:27.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 01:20:28.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 01:20:28.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 01:20:32.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[16Feb2025 01:20:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[16Feb2025 01:20:32.420] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[16Feb2025 01:21:04.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 6.66023476178043,0.0,8.275779050128676
