@@ -1492,3 +1492,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Feb2025 07:34:15.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalej
 [16Feb2025 07:34:15.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
 [16Feb2025 07:34:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Werewolf
+[16Feb2025 07:34:22.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[16Feb2025 07:34:22.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[16Feb2025 07:34:22.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[16Feb2025 07:34:27.351] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
+[16Feb2025 07:34:51.175] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[16Feb2025 07:35:59.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 moved wrongly!
+[16Feb2025 07:38:36.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.67.106.184:50193] logged in with entity id 70233 at (1383.1825200662447, 80.22860926093821, -560.7574954054875)
+[16Feb2025 07:38:36.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[16Feb2025 07:38:36.787] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[16Feb2025 07:38:36.800] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[16Feb2025 07:38:38.280] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[16Feb2025 07:38:38.280] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 07:38:50.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 07:38:51.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 07:38:51.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 07:39:46.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Left hanging]
+[16Feb2025 07:43:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported MandyXMaster687 to Dalej]
