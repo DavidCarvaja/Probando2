@@ -2162,3 +2162,14 @@ Caused by: java.util.ConcurrentModificationException
 [16Feb2025 10:48:18.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
 [16Feb2025 10:48:18.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
 [16Feb2025 10:48:18.407] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[16Feb2025 10:50:34.858] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
+[16Feb2025 10:51:09.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.254.91.244:36167] logged in with entity id 188771 at (910.6270823879121, 67.0, -319.3185557274844)
+[16Feb2025 10:51:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[16Feb2025 10:51:10.114] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[16Feb2025 10:51:10.115] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[16Feb2025 10:51:12.084] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[16Feb2025 10:51:12.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[16Feb2025 10:51:21.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 10:51:22.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba90b352-0046-3a15-868f-6c2e8cd363f8
+[16Feb2025 10:51:22.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player morax (ba90b352-0046-3a15-868f-6c2e8cd363f8) successfully connected to voice chat
+[16Feb2025 10:56:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Gravedigger]
