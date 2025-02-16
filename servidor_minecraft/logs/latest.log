@@ -1279,3 +1279,42 @@ java.lang.Throwable: null
 [16Feb2025 06:38:28.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
 [16Feb2025 06:38:58.706] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
 [16Feb2025 06:40:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Once Upon a Cave]
+[16Feb2025 06:43:27.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> armando vamos a hacer el trade
+[16Feb2025 06:43:57.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> de noche porque de dia soy marinet
+[16Feb2025 06:44:03.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el q te iba a dar las cosas del vampirism por etiqutas
+[16Feb2025 06:44:09.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> marinero?
+[16Feb2025 06:44:15.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david dame lo mio
+[16Feb2025 06:44:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Werewolf Tooth] to Asriel]
+[16Feb2025 06:45:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> perfe
+[16Feb2025 06:46:40.277] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 29], discarding
+[16Feb2025 06:46:40.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 30], discarding
+[16Feb2025 06:47:37.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Who is Cutting Onions?]
+[16Feb2025 06:48:58.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 06:48:58.327] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
+[16Feb2025 06:49:32.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Feb2025 06:50:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Jorogumo
+[16Feb2025 06:50:13.720] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.werewolves.util.Helper.canBecomeWerewolf(Helper.java:50) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.effects.inst.LupusSanguinemEffectInstance.m_19552_(LupusSanguinemEffectInstance.java:24) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Feb2025 06:51:21.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16Feb2025 06:51:47.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Feb2025 06:52:00.688] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[16Feb2025 06:52:33.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was melted by morax's poisonous breath
+[16Feb2025 06:52:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lavate la boca
