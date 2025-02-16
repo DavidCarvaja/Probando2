@@ -184,7 +184,8 @@
       "hot_springs": "2025-02-15 19:03:36 +0000",
       "spider_nest": "2025-02-01 07:06:09 +0000",
       "pasture": "2025-02-01 07:04:32 +0000",
-      "prairie": "2025-02-01 06:59:27 +0000"
+      "prairie": "2025-02-01 06:59:27 +0000",
+      "snowy_maple_woods": "2025-02-16 06:00:31 +0000"
     },
     "done": false
   },
@@ -8291,9 +8292,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-16 05:56:26 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/fried_chicken": {
     "criteria": {
       "has_cooked_chicken": "2025-02-16 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-16 05:48:36 +0000"
     },
     "done": true
   },

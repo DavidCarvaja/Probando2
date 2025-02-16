@@ -1139,3 +1139,53 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Feb2025 05:50:17.454] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [16Feb2025 05:50:17.455] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [16Feb2025 05:50:17.455] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[16Feb2025 05:58:01.491] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[16Feb2025 05:58:38.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:42877] logged in with entity id 8201 at (1384.6447110919642, 79.0, -548.3758250546168)
+[16Feb2025 05:58:38.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[16Feb2025 05:58:38.371] [Server thread/INFO] [Jade/]: Syncing config to MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be)
+[16Feb2025 05:58:39.629] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
+[16Feb2025 05:58:39.630] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
+[16Feb2025 05:58:46.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 97923b0a-25f4-3d49-b72c-ab5e412188be
+[16Feb2025 05:58:47.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 97923b0a-25f4-3d49-b72c-ab5e412188be
+[16Feb2025 05:58:47.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be) successfully connected to voice chat
+[16Feb2025 05:59:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hello
+[16Feb2025 05:59:21.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[16Feb2025 05:59:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[16Feb2025 05:59:21.882] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[16Feb2025 06:06:47.564] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2390ms or 47 ticks
+[16Feb2025 06:07:07.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.136.165.38:57135] logged in with entity id 14612 at (657.6619582698247, 62.0, -132.69999998807907)
+[16Feb2025 06:07:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[16Feb2025 06:07:07.415] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[16Feb2025 06:07:08.119] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Feb2025 06:07:08.125] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[16Feb2025 06:07:08.125] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[16Feb2025 06:07:08.126] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Asriel'/14612, l='ServerLevel[world]', x=657.66, y=62.00, z=-132.70, removed=KILLED]
+[16Feb2025 06:07:19.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 06:07:19.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 06:07:19.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[16Feb2025 06:07:30.617] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
+[16Feb2025 06:08:00.330] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2013ms or 40 ticks
+[16Feb2025 06:08:13.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Coñito'/16675, l='ServerLevel[world]', x=1215.25, y=76.00, z=893.75] died: Coñito was slain by Wolf
+[16Feb2025 06:10:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was killed by Necromancer's magic missile
+[16Feb2025 06:10:25.706] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3053ms or 61 ticks

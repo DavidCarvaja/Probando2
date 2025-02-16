@@ -8843,57 +8843,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "mcwfurnitures:recipes/spruce": {
     "criteria": {
-      "has_spruce_counter": "2025-02-16 02:46:56 +0000"
+      "has_wood": "2025-02-16 00:19:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_side_table": {
-    "criteria": {
-      "has_dark_oak_side_table": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/spruce_wine_rack_big": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+      "has_log": "2025-02-16 00:19:49 +0000"
     },
     "done": true
   },
@@ -8903,267 +8861,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
-    "criteria": {
-      "has_spruce_leaves": "2025-02-16 01:23:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-02-16 01:21:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_shelf": {
-    "criteria": {
-      "has_spruce_shelf": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/spruce_wine_rack_small": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
-    "criteria": {
-      "has_dark_oak_fancy_bed": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_table": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grapevine_pot": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_nightstand": {
-    "criteria": {
-      "has_dark_oak_nightstand": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
-    "criteria": {
-      "has_dead_bush": "2025-02-16 02:50:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_shelf": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_shelf": {
-    "criteria": {
-      "has_dark_oak_shelf": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_dining_bench": {
-    "criteria": {
-      "has_dark_oak_dining_bench": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-16 01:26:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_pillar_trim": {
-    "criteria": {
-      "has_spruce_pillar_trim": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-02-16 00:54:23 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_cupboard": {
-    "criteria": {
-      "has_dark_oak_cupboard": "2025-02-16 00:59:52 +0000"
     },
     "done": true
   },
@@ -9173,141 +8873,15 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-02-16 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-02-16 03:24:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-02-16 01:10:11 +0000"
-    },
-    "done": true
-  },
   "werewolves:recipes/misc/stone_altar": {
     "criteria": {
       "has_stone_bricks": "2025-02-16 00:54:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-02-16 01:26:18 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_oak_wine_rack_big": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dark_oak_corner_trim": {
-    "criteria": {
-      "has_dark_oak_corner_trim": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-02-16 01:09:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-16 00:54:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-16 00:59:52 +0000"
     },
     "done": true
   },
@@ -9329,27 +8903,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
+      "has_tag": "2025-02-16 00:54:23 +0000"
     },
     "done": true
   },
-  "vinery:recipes/dark_oak_wine_rack_small": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+      "has_stone_bricks": "2025-02-16 00:54:23 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-02-16 02:46:56 +0000"
+      "has_stone_bricks": "2025-02-16 00:54:23 +0000"
     },
     "done": true
   },
@@ -9359,27 +8927,183 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_oak_leaves": "2025-02-16 02:50:39 +0000"
+      "has_log": "2025-02-16 00:57:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "has_wood_slab": "2025-02-16 01:09:51 +0000"
+      "has_log": "2025-02-16 00:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
     },
     "done": true
   },
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-02-16 00:54:23 +0000"
     },
     "done": true
   },
@@ -9395,57 +9119,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-16 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "dummmmmmy:recipes/dummy_crafting": {
-    "criteria": {
-      "has_hay_block": "2025-02-16 02:21:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_couch": {
-    "criteria": {
-      "has_spruce_couch": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
-    "criteria": {
-      "has_birch_leaves": "2025-02-16 01:23:45 +0000"
     },
     "done": true
   },
@@ -9455,33 +9131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-16 00:54:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
-    "criteria": {
-      "has_grass": "2025-02-16 02:16:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-02-16 02:46:56 +0000"
     },
     "done": true
   },
@@ -9497,12 +9149,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
-    "criteria": {
-      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-02-16 00:59:52 +0000"
@@ -9515,69 +9161,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-02-16 00:57:50 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_nightstand": {
-    "criteria": {
-      "has_spruce_nightstand": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_bench": {
-    "criteria": {
-      "has_spruce_bench": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-02-16 01:21:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-16 00:54:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-16 00:57:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2025-02-16 01:26:18 +0000"
     },
     "done": true
   },
@@ -9587,15 +9173,279 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_drawer": {
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
-      "has_spruce_drawer": "2025-02-16 02:46:56 +0000"
+      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-02-16 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-02-16 01:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-16 01:09:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-02-16 01:09:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-02-16 01:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-16 01:10:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-02-16 01:21:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-16 01:21:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-02-16 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-02-16 01:23:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 01:26:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-16 01:26:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-02-16 01:26:18 +0000"
     },
     "done": true
   },
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2025-02-16 01:33:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-02-16 02:16:09 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-02-16 02:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-16 02:21:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-02-16 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-02-16 02:46:56 +0000"
     },
     "done": true
   },
@@ -9617,21 +9467,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
     },
     "done": true
   },
@@ -9653,51 +9491,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-16 00:58:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-16 00:59:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-02-16 02:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-02-16 02:21:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2025-02-16 01:09:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-02-16 03:19:18 +0000"
     },
     "done": true
   },
@@ -9713,27 +9509,231 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
-    "criteria": {
-      "has_wood_plate": "2025-02-16 01:09:51 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-02-16 02:46:56 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
     "criteria": {
-      "has_dark_oak_pillar_trim": "2025-02-16 00:59:52 +0000"
+      "has_dead_bush": "2025-02-16 02:50:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2025-02-16 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-16 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-02-16 03:19:18 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-02-16 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-16 03:24:44 +0000"
     },
     "done": true
   },
