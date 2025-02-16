@@ -8085,9 +8085,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_spruce_counter": "2025-02-16 07:01:29 +0000"
+      "has_pink_tulip": "2025-02-16 06:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-02-16 06:08:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 06:36:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 06:36:28 +0000"
     },
     "done": true
   },
@@ -8103,21 +8121,81 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
     "criteria": {
-      "has_spruce_planks": "2025-02-16 07:01:29 +0000"
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
     "criteria": {
-      "has_any_ingredient": "2025-02-16 06:54:29 +0000"
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
     "criteria": {
-      "has_blaze_powder": "2025-02-16 07:19:00 +0000"
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 06:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 06:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 06:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-16 06:48:31 +0000"
     },
     "done": true
   },
@@ -8127,21 +8205,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 06:54:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 06:54:29 +0000"
     },
     "done": true
   },
-  "vinery:recipes/spruce_wine_rack_big": {
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-16 06:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-16 06:54:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-02-16 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-16 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-02-16 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-02-16 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-02-16 07:01:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 07:01:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+  "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
+      "has_spruce_planks": "2025-02-16 07:01:29 +0000"
     },
     "done": true
   },
@@ -8154,12 +8310,6 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-02-16 07:01:29 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
-    "criteria": {
-      "killed_by": "2025-02-16 07:10:25 +0000"
     },
     "done": true
   },
@@ -8178,12 +8328,6 @@
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 07:01:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-16 07:19:00 +0000"
     },
     "done": true
   },
@@ -8229,12 +8373,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-02-16 07:01:29 +0000"
@@ -8244,42 +8382,6 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 07:01:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-02-16 06:48:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-16 07:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-02-16 06:48:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-02-16 06:08:22 +0000"
     },
     "done": true
   },
@@ -8295,33 +8397,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-02-16 07:01:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 07:01:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-16 06:54:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-02-16 06:08:22 +0000"
     },
     "done": true
   },
@@ -8331,69 +8409,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-02-16 07:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-02-16 07:02:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-02-16 06:36:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-02-16 07:01:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-02-16 07:02:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-16 07:01:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-02-16 06:48:31 +0000"
     },
     "done": true
   },
@@ -8409,39 +8433,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-02-16 06:53:51 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_bench": {
     "criteria": {
       "has_spruce_bench": "2025-02-16 07:01:29 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cooked_dinosaur_chop": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-02-16 06:36:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-02-16 06:48:31 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-02-16 07:01:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
     },
     "done": true
   },
@@ -8493,30 +8493,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2025-02-16 07:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-16 06:54:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-16 07:01:29 +0000"
@@ -8529,21 +8505,45 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
-    "criteria": {
-      "has_wood_plate": "2025-02-16 07:01:24 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
-    "criteria": {
-      "has_dark_stone_bricks": "2025-02-16 06:48:12 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-02-16 07:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-16 07:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-16 07:02:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-02-16 07:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-16 07:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-16 07:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-16 07:19:00 +0000"
     },
     "done": true
   },

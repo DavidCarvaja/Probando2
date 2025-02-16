@@ -1430,3 +1430,65 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Feb2025 07:23:57.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
 [16Feb2025 07:23:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
 [16Feb2025 07:23:57.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[16Feb2025 07:24:14.601] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[16Feb2025 07:24:15.230] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 29], discarding
+[16Feb2025 07:24:15.237] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [36, 30], discarding
+[16Feb2025 07:24:39.334] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a6a262a[id=<null>,name=Asriel,properties={},legacy=false] (/127.196.17.162:42777) lost connection: Disconnected
+[16Feb2025 07:24:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> armanf¡do sorry
+[16Feb2025 07:24:55.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> :(
+[16Feb2025 07:24:55.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ariel se puso agresivo
+[16Feb2025 07:24:56.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.196.17.162:47731] logged in with entity id 56914 at (1492.2278141945378, 67.0, 361.1298955953308)
+[16Feb2025 07:24:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[16Feb2025 07:24:57.001] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[16Feb2025 07:24:57.456] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[16Feb2025 07:24:57.456] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[16Feb2025 07:25:08.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 07:25:09.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 07:25:09.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[16Feb2025 07:25:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was consumed by morax's flames
+[16Feb2025 07:25:43.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Feb2025 07:26:00.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[16Feb2025 07:26:19.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[16Feb2025 07:26:37.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3350ms or 67 ticks behind
+[16Feb2025 07:26:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ARIEL SE ME BUGUEO ESTO
+[16Feb2025 07:26:56.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3926ms or 78 ticks behind
+[16Feb2025 07:26:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> mira
+[16Feb2025 07:27:01.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> NO PARO DE SOLTAR FUEGO
+[16Feb2025 07:27:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> te vas pa casa de la pinga
+[16Feb2025 07:27:08.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tu problema
+[16Feb2025 07:27:15.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
+[16Feb2025 07:27:27.154] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2116ms or 42 ticks
+[16Feb2025 07:27:35.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4917ms or 98 ticks behind
+[16Feb2025 07:27:54.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4285ms or 85 ticks behind
+[16Feb2025 07:28:14.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[16Feb2025 07:28:32.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[16Feb2025 07:29:03.161] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[16Feb2025 07:29:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> si
+[16Feb2025 07:29:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no c pq no se me escucha
+[16Feb2025 07:29:38.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> que morrongona
+[16Feb2025 07:29:38.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Feb2025 07:29:41.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eso david
+[16Feb2025 07:30:11.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tu tu nadie como tu tu
+[16Feb2025 07:31:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> donde esta lo del warden?
+[16Feb2025 07:31:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> mira el chat
+[16Feb2025 07:32:01.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> pera
+[16Feb2025 07:32:05.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> te paso cords
+[16Feb2025 07:32:10.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Werewolf
+[16Feb2025 07:32:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sirve
+[16Feb2025 07:32:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> [name:"Warden City", x:1916, y:-47, z:606, dim:minecraft:overworld]
+[16Feb2025 07:32:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was mauled by Necromancer's undead
+[16Feb2025 07:32:39.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[16Feb2025 07:32:39.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[16Feb2025 07:32:39.556] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[16Feb2025 07:33:06.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.136.165.38:48661] logged in with entity id 64608 at (1491.910934685375, 70.0, 318.9148982750658)
+[16Feb2025 07:33:06.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[16Feb2025 07:33:06.993] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[16Feb2025 07:33:07.469] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[16Feb2025 07:33:07.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[16Feb2025 07:33:18.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 07:33:19.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2fa8843a-67ac-3a12-937e-775dc123023f
+[16Feb2025 07:33:19.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Asriel (2fa8843a-67ac-3a12-937e-775dc123023f) successfully connected to voice chat
+[16Feb2025 07:34:15.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fcb33033-a2d1-3bae-abae-bbc169e822af timed out
+[16Feb2025 07:34:15.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalej
+[16Feb2025 07:34:15.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 07:34:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Werewolf
