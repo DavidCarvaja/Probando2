@@ -8486,12 +8486,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-02-16 07:27:50 +0000"
@@ -9230,18 +9224,6 @@
     },
     "done": true
   },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
-  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-02-16 12:17:15 +0000"
@@ -9254,11 +9236,11 @@
     },
     "done": true
   },
-  "vampirism:vampire/first_blood": {
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
+      "has_smithing_trim_template": "2025-02-16 12:31:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
@@ -9326,17 +9308,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-02-16 12:31:08 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_frostbitten_temple": {
     "criteria": {
       "frostbitten_temple": "2025-02-16 12:03:20 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
@@ -9361,18 +9343,6 @@
       "golden_knife": "2025-02-16 12:09:20 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
@@ -9434,23 +9404,11 @@
     },
     "done": true
   },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 11:00:15 +0000"
     },
     "done": true
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-02-16 12:28:30 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
