@@ -6221,3 +6221,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Feb2025 05:39:50.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=172, y=86, z=20}
 [16Feb2025 05:39:50.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=172, y=86, z=21}
 [16Feb2025 05:39:54.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=175, y=87, z=26}
+[16Feb2025 05:41:32.763] [Server thread/INFO] [Easy NPC/]: Opening menu 7f563464-9f3b-4a47-a0e6-fe40eff428b6 for npc 4a2ca0b5-c53d-4a97-bcc0-0db6e756f627 and player ServerPlayer['morax'/1145, l='ServerLevel[world]', x=250.30, y=87.00, z=64.48] with DialogMenuHandler{displayName=literal{Hombre misterioso}[style={color=#FFFFFF}]}
+[16Feb2025 05:42:39.205] [Server thread/INFO] [Easy NPC/]: Opening menu b5fa24c5-dc6c-48d7-9e63-de811bdcad83 for npc 2d7b3e33-5bc6-4f54-99f5-c7c20b57bf8d and player ServerPlayer['morax'/1145, l='ServerLevel[world]', x=201.76, y=88.00, z=86.39] with DialogMenuHandler{displayName=literal{Profesor Broli}[style={color=#FFFFFF}]}
+[16Feb2025 05:43:01.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 05:43:01.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 05:43:31.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=235, y=92, z=75} BlockPos{x=183, y=85, z=7}
+[16Feb2025 05:43:40.013] [Server thread/INFO] [Easy NPC/]: Opening menu 0e6ab036-efea-4b09-ba4c-97cd4fc84439 for npc 27b37e5c-956f-44d9-bd18-bb623741c882 and player ServerPlayer['morax'/1145, l='ServerLevel[world]', x=185.46, y=85.00, z=2.30] with DialogMenuHandler{displayName=literal{Gladius}[style={color=#FFFFFF}]}
+[16Feb2025 05:44:00.827] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[16Feb2025 05:44:00.827] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[16Feb2025 05:44:00.830] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[16Feb2025 05:48:01.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 05:48:01.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 05:49:52.170] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:komainu
+[16Feb2025 05:50:14.679] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 41.43 and blood value 0 for entity alexscaves:relicheirus
+[16Feb2025 05:50:14.693] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[16Feb2025 05:50:14.694] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[16Feb2025 05:50:16.632] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[16Feb2025 05:50:17.453] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[16Feb2025 05:50:17.454] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[16Feb2025 05:50:17.455] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[16Feb2025 05:50:17.455] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[16Feb2025 05:50:19.331] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[16Feb2025 05:50:22.223] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexscaves:vallumraptor
+[16Feb2025 05:50:40.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:tanuki
+[16Feb2025 05:50:40.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity alexsmobs:anaconda
+[16Feb2025 05:50:45.388] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[16Feb2025 05:50:45.388] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
