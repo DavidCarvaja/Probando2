@@ -9737,15 +9737,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-16 06:57:00 +0000"
     },
     "done": true
   },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/combat/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
     },
     "done": true
   },
@@ -9768,6 +9804,12 @@
   "werewolves:recipes/combat/silver_helmet": {
     "criteria": {
       "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
     },
     "done": true
   },
@@ -9828,6 +9870,18 @@
   "werewolves:recipes/combat/silver_boots": {
     "criteria": {
       "has_silver_ingot": "2025-02-16 08:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-16 08:33:03 +0000"
     },
     "done": true
   },
