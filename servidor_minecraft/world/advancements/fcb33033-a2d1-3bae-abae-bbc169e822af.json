@@ -9407,6 +9407,36 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-02-16 07:39:46 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_jojannik": {
+    "criteria": {
+      "whiskey_jojannik": "2025-02-16 07:43:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-02-16 07:51:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:red_grapejuice": "2025-02-16 07:55:50 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2025-02-16 07:55:50 +0000"
+    },
+    "done": true
+  },
   "vinery:main/wine_somelier": {
     "criteria": {
       "vinery:glowing_wine": "2025-02-16 07:58:26 +0000",
@@ -9422,39 +9452,27 @@
     },
     "done": false
   },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2025-02-16 07:51:25 +0000"
-    },
-    "done": true
-  },
   "vinery:main/the_noble_drop": {
     "criteria": {
       "have_any_wine": "2025-02-16 07:56:05 +0000"
     },
     "done": true
   },
-  "vinery:main/nectar_of_life": {
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
-      "vinery:red_grapejuice": "2025-02-16 07:55:50 +0000"
-    },
-    "done": false
-  },
-  "beautify:progression/hanging_pot": {
-    "criteria": {
-      "obtain": "2025-02-16 07:39:46 +0000"
+      "has_dripstone_pillar_trim": "2025-02-16 08:22:27 +0000"
     },
     "done": true
   },
-  "vinery:main/juicy_success": {
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
-      "have_any_juice": "2025-02-16 07:55:50 +0000"
+      "has_dripstone_corner_trim": "2025-02-16 08:22:27 +0000"
     },
     "done": true
   },
-  "brewery:main/get_whiskey_jojannik": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "whiskey_jojannik": "2025-02-16 07:43:01 +0000"
+      "has_pointed_dripstone": "2025-02-16 08:24:03 +0000"
     },
     "done": true
   },
