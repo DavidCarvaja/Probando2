@@ -1189,3 +1189,8 @@ java.lang.Throwable: null
 [16Feb2025 06:08:13.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Coñito'/16675, l='ServerLevel[world]', x=1215.25, y=76.00, z=893.75] died: Coñito was slain by Wolf
 [16Feb2025 06:10:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was killed by Necromancer's magic missile
 [16Feb2025 06:10:25.706] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3053ms or 61 ticks
+[16Feb2025 06:12:39.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Spider
+[16Feb2025 06:13:13.830] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2578ms or 51 ticks
+[16Feb2025 06:15:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was slain by Jorogumo
+[16Feb2025 06:15:27.265] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2226ms or 44 ticks
+[16Feb2025 06:16:02.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dasdas
