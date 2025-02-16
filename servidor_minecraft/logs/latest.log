@@ -1419,3 +1419,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Feb2025 07:13:17.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ratones
 [16Feb2025 07:13:25.958] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2159ms or 43 ticks
 [16Feb2025 07:13:26.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> voy von ustedes
+[16Feb2025 07:14:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> asd
+[16Feb2025 07:16:48.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fcb33033-a2d1-3bae-abae-bbc169e822af timed out
+[16Feb2025 07:16:48.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dalej
+[16Feb2025 07:16:48.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[16Feb2025 07:16:56.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 07:17:08.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fcb33033-a2d1-3bae-abae-bbc169e822af
+[16Feb2025 07:17:08.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af) successfully connected to voice chat
+[16Feb2025 07:23:57.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was melted by morax's poisonous breath
+[16Feb2025 07:23:57.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[16Feb2025 07:23:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[16Feb2025 07:23:57.827] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
